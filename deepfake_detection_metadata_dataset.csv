@@ -1,0 +1,1001 @@
+media_id,media_type,content_category,face_count,audio_present,lip_sync_score,visual_artifacts_score,compression_level,lighting_inconsistency_score,source_platform,generation_method,label
+1,Image,News,2,Yes,0.76,0.24,0.06,0.23,Facebook,None,Real
+2,Video,News,3,Yes,0.01,0.82,0.62,0.98,Instagram,Diffusion,Fake
+3,Video,Political Speech,3,No,0.2,0.66,0.23,0.77,News Website,GAN,Fake
+4,Image,Social Media,4,Yes,0.81,0.19,0.68,0.29,YouTube,None,Real
+5,Video,Interview,1,Yes,0.98,0.0,0.23,0.17,Twitter,None,Real
+6,Audio,Interview,3,No,0.88,0.2,0.66,0.25,Instagram,None,Real
+7,Video,News,3,No,0.4,0.52,0.4,0.42,Twitter,FaceSwap,Fake
+8,Image,Entertainment,4,No,0.06,0.95,0.54,0.52,Instagram,VoiceClone,Fake
+9,Audio,Entertainment,0,Yes,0.86,0.08,0.99,0.04,YouTube,None,Real
+10,Audio,Social Media,0,Yes,0.57,0.4,0.07,0.82,Instagram,Diffusion,Fake
+11,Image,Entertainment,2,No,0.96,0.27,0.64,0.13,TikTok,None,Real
+12,Image,Entertainment,1,Yes,0.74,0.14,0.77,0.21,TikTok,None,Real
+13,Audio,Interview,3,Yes,0.73,0.21,0.51,0.13,News Website,None,Real
+14,Image,Social Media,2,No,0.82,0.07,0.88,0.23,Instagram,None,Real
+15,Video,Social Media,1,Yes,0.73,0.09,0.9,0.14,News Website,None,Real
+16,Image,Interview,2,Yes,0.89,0.08,0.16,0.0,TikTok,None,Real
+17,Audio,Social Media,0,No,0.91,0.15,0.36,0.08,YouTube,None,Real
+18,Image,Interview,0,Yes,0.49,0.55,0.61,0.83,Instagram,Diffusion,Fake
+19,Video,News,4,No,0.24,0.42,0.45,0.78,News Website,FaceSwap,Fake
+20,Audio,Entertainment,3,No,0.53,0.8,0.63,0.54,TikTok,VoiceClone,Fake
+21,Video,Entertainment,2,No,0.95,0.03,0.33,0.1,Twitter,None,Real
+22,Audio,Political Speech,0,Yes,0.94,0.21,0.4,0.1,Instagram,None,Real
+23,Audio,News,2,Yes,0.51,0.81,0.66,0.53,Instagram,GAN,Fake
+24,Video,Political Speech,4,Yes,0.18,0.71,0.88,1.0,YouTube,GAN,Fake
+25,Video,Interview,3,Yes,0.92,0.1,0.94,0.27,Twitter,None,Real
+26,Audio,Interview,4,No,0.01,0.76,0.16,0.46,Instagram,Diffusion,Fake
+27,Image,Entertainment,3,No,0.7,0.67,0.65,0.51,TikTok,FaceSwap,Fake
+28,Video,Entertainment,2,No,0.86,0.09,0.91,0.15,TikTok,None,Real
+29,Image,Political Speech,4,No,0.4,0.7,0.28,0.7,TikTok,GAN,Fake
+30,Video,Entertainment,2,No,0.7,0.43,0.02,0.68,Facebook,GAN,Fake
+31,Audio,Entertainment,4,No,0.87,0.17,0.85,0.29,TikTok,None,Real
+32,Video,News,1,Yes,0.66,0.73,0.52,0.82,Instagram,FaceSwap,Fake
+33,Audio,Entertainment,1,Yes,0.1,0.91,0.42,0.83,Instagram,GAN,Fake
+34,Image,Political Speech,0,No,0.72,0.18,0.7,0.0,News Website,None,Real
+35,Audio,Social Media,0,No,0.26,0.6,0.54,0.46,Facebook,VoiceClone,Fake
+36,Audio,Social Media,3,Yes,0.18,0.92,0.52,0.42,Facebook,FaceSwap,Fake
+37,Video,Social Media,3,No,0.32,0.98,0.98,0.91,Twitter,Diffusion,Fake
+38,Video,News,4,No,0.28,0.42,0.96,0.66,YouTube,FaceSwap,Fake
+39,Video,Interview,4,Yes,0.64,0.43,0.64,0.67,Facebook,GAN,Fake
+40,Audio,Political Speech,1,No,0.83,0.2,0.16,0.22,News Website,None,Real
+41,Video,Political Speech,4,No,0.73,0.1,0.02,0.03,Instagram,None,Real
+42,Audio,News,1,No,0.12,0.68,0.64,0.66,Instagram,GAN,Fake
+43,Image,Entertainment,3,No,0.65,0.41,0.07,0.7,Instagram,VoiceClone,Fake
+44,Video,Social Media,3,Yes,0.89,0.26,0.46,0.24,TikTok,None,Real
+45,Video,Social Media,3,Yes,0.82,0.28,0.07,0.29,News Website,None,Real
+46,Image,News,1,No,0.48,0.46,0.34,0.44,TikTok,GAN,Fake
+47,Audio,Entertainment,3,Yes,0.91,0.15,0.8,0.1,YouTube,None,Real
+48,Audio,Political Speech,1,Yes,0.4,0.65,0.78,0.75,News Website,FaceSwap,Fake
+49,Audio,Interview,0,Yes,0.48,0.54,0.51,0.84,YouTube,GAN,Fake
+50,Image,Social Media,3,Yes,0.27,0.94,0.32,0.41,News Website,GAN,Fake
+51,Image,Entertainment,2,No,0.87,0.29,0.33,0.19,TikTok,None,Real
+52,Image,Entertainment,1,No,0.94,0.23,0.06,0.24,Instagram,None,Real
+53,Audio,Political Speech,0,No,0.86,0.22,0.84,0.21,YouTube,None,Real
+54,Image,News,2,No,0.83,0.25,0.15,0.07,Facebook,None,Real
+55,Video,Political Speech,0,Yes,0.87,0.07,0.91,0.26,Facebook,None,Real
+56,Video,Social Media,1,No,0.06,0.63,0.33,0.87,News Website,Diffusion,Fake
+57,Image,Interview,0,Yes,0.82,0.08,0.58,0.17,News Website,None,Real
+58,Video,Entertainment,1,No,0.79,0.11,0.98,0.26,Facebook,None,Real
+59,Image,Political Speech,2,Yes,0.71,0.1,0.97,0.28,Instagram,None,Real
+60,Image,Social Media,0,Yes,0.91,0.19,0.28,0.14,News Website,None,Real
+61,Video,News,3,No,0.19,0.77,0.27,0.51,Facebook,Diffusion,Fake
+62,Image,Interview,4,No,0.84,0.08,0.6,0.01,Facebook,None,Real
+63,Image,Interview,1,No,0.95,0.27,0.93,0.28,Instagram,None,Real
+64,Image,News,0,Yes,0.71,0.01,0.59,0.11,YouTube,None,Real
+65,Audio,Interview,4,No,0.59,0.91,0.08,0.68,Twitter,VoiceClone,Fake
+66,Audio,Entertainment,4,Yes,0.92,0.16,0.76,0.27,TikTok,None,Real
+67,Image,Entertainment,3,No,0.76,0.07,0.88,0.08,Instagram,None,Real
+68,Video,Social Media,2,No,0.47,0.47,0.85,0.71,News Website,VoiceClone,Fake
+69,Audio,Entertainment,4,No,0.55,0.45,0.7,0.75,TikTok,GAN,Fake
+70,Video,News,2,Yes,0.7,0.04,0.9,0.11,Twitter,None,Real
+71,Audio,News,2,Yes,0.94,0.15,0.95,0.12,Twitter,None,Real
+72,Image,News,4,No,0.54,0.91,0.33,0.44,TikTok,Diffusion,Fake
+73,Audio,Social Media,3,No,0.72,0.07,0.7,0.04,YouTube,None,Real
+74,Image,News,2,Yes,0.85,0.26,0.82,0.29,Instagram,None,Real
+75,Image,Political Speech,1,No,0.06,0.51,0.36,0.47,News Website,FaceSwap,Fake
+76,Video,Social Media,4,Yes,0.06,0.59,0.28,0.69,YouTube,GAN,Fake
+77,Video,News,3,Yes,0.69,0.76,0.53,0.72,Instagram,GAN,Fake
+78,Audio,Social Media,3,Yes,0.74,0.02,0.87,0.04,News Website,None,Real
+79,Video,Interview,0,Yes,0.73,0.12,0.09,0.22,News Website,None,Real
+80,Audio,Interview,4,No,0.42,0.93,0.09,0.81,News Website,GAN,Fake
+81,Image,Entertainment,3,No,0.3,0.85,0.61,0.48,TikTok,VoiceClone,Fake
+82,Video,Entertainment,3,No,0.42,0.99,0.19,0.54,News Website,VoiceClone,Fake
+83,Audio,Entertainment,3,No,0.59,0.43,0.11,0.43,Instagram,VoiceClone,Fake
+84,Video,Social Media,0,No,0.0,0.95,0.56,0.99,Instagram,Diffusion,Fake
+85,Audio,Political Speech,0,No,0.76,0.25,0.24,0.29,YouTube,None,Real
+86,Image,Social Media,2,Yes,0.41,0.57,0.37,0.49,Instagram,FaceSwap,Fake
+87,Video,Political Speech,0,Yes,1.0,0.02,0.68,0.1,YouTube,None,Real
+88,Video,Interview,4,No,0.84,0.18,0.75,0.12,Instagram,None,Real
+89,Audio,Interview,3,No,0.66,0.84,0.78,0.51,TikTok,GAN,Fake
+90,Image,Entertainment,2,Yes,0.94,0.23,0.63,0.25,News Website,None,Real
+91,Audio,Social Media,4,No,0.27,0.93,0.54,0.89,YouTube,GAN,Fake
+92,Image,Social Media,2,No,0.82,0.11,0.94,0.16,TikTok,None,Real
+93,Video,Social Media,3,Yes,0.56,0.48,0.15,0.77,YouTube,FaceSwap,Fake
+94,Video,News,1,Yes,0.92,0.07,0.88,0.01,YouTube,None,Real
+95,Audio,Entertainment,4,Yes,0.27,0.72,0.23,0.67,Twitter,FaceSwap,Fake
+96,Video,Social Media,2,Yes,0.89,0.22,0.83,0.21,News Website,None,Real
+97,Video,Social Media,3,No,0.28,0.75,0.59,0.68,News Website,Diffusion,Fake
+98,Image,Entertainment,1,Yes,0.51,0.55,0.58,0.76,Instagram,GAN,Fake
+99,Video,Social Media,0,No,0.92,0.13,0.24,0.28,Instagram,None,Real
+100,Audio,Social Media,4,Yes,0.64,0.47,0.05,0.92,YouTube,Diffusion,Fake
+101,Image,News,2,No,0.42,0.87,0.35,0.47,Instagram,Diffusion,Fake
+102,Audio,Social Media,0,Yes,0.84,0.22,0.17,0.07,Facebook,None,Real
+103,Video,Entertainment,0,Yes,0.41,0.62,0.98,0.78,YouTube,GAN,Fake
+104,Image,Interview,4,No,0.96,0.17,0.75,0.16,TikTok,None,Real
+105,Image,Social Media,1,Yes,0.33,0.61,0.78,0.77,Instagram,VoiceClone,Fake
+106,Audio,Political Speech,0,No,0.28,0.66,0.86,0.74,TikTok,FaceSwap,Fake
+107,Audio,Political Speech,1,Yes,0.45,0.56,0.66,0.65,YouTube,FaceSwap,Fake
+108,Image,Interview,4,Yes,0.77,0.07,0.89,0.2,Twitter,None,Real
+109,Video,Social Media,3,No,0.94,0.22,0.67,0.3,Facebook,None,Real
+110,Image,Entertainment,2,No,0.06,0.59,0.18,0.78,Twitter,VoiceClone,Fake
+111,Audio,News,1,Yes,0.97,0.13,0.59,0.25,Twitter,None,Real
+112,Image,Political Speech,2,No,0.54,0.61,0.97,0.62,Twitter,GAN,Fake
+113,Image,News,2,Yes,0.34,0.92,0.27,0.94,Instagram,GAN,Fake
+114,Video,Political Speech,1,No,0.77,0.12,0.9,0.19,Instagram,None,Real
+115,Video,Political Speech,0,No,0.95,0.2,0.07,0.16,Facebook,None,Real
+116,Video,Entertainment,2,Yes,0.92,0.15,0.27,0.03,TikTok,None,Real
+117,Image,Interview,1,Yes,0.47,0.76,0.38,0.51,Instagram,FaceSwap,Fake
+118,Image,Political Speech,2,No,0.67,0.61,0.07,0.51,TikTok,Diffusion,Fake
+119,Audio,News,4,No,0.5,0.61,0.21,0.58,Twitter,VoiceClone,Fake
+120,Video,Social Media,4,Yes,0.88,0.08,0.33,0.02,Instagram,None,Real
+121,Image,Social Media,1,Yes,0.25,0.61,0.25,0.65,TikTok,GAN,Fake
+122,Audio,Entertainment,3,Yes,0.68,0.4,0.92,0.4,Facebook,GAN,Fake
+123,Video,Social Media,4,Yes,0.83,0.29,0.66,0.06,News Website,None,Real
+124,Audio,News,0,Yes,0.63,0.99,0.67,0.79,Instagram,FaceSwap,Fake
+125,Audio,Entertainment,0,Yes,0.39,1.0,0.92,0.68,Instagram,VoiceClone,Fake
+126,Audio,Social Media,1,Yes,0.84,0.28,0.83,0.26,YouTube,None,Real
+127,Audio,Entertainment,2,No,0.39,0.62,0.44,0.69,Twitter,VoiceClone,Fake
+128,Image,Entertainment,1,Yes,0.86,0.09,0.89,0.24,Instagram,None,Real
+129,Audio,Entertainment,4,No,0.32,0.65,0.94,0.99,TikTok,FaceSwap,Fake
+130,Image,Entertainment,3,Yes,0.81,0.3,0.58,0.23,Twitter,None,Real
+131,Image,Interview,0,Yes,0.73,0.12,0.47,0.1,News Website,None,Real
+132,Image,Interview,0,Yes,0.41,0.83,0.68,0.57,Twitter,Diffusion,Fake
+133,Video,Social Media,4,No,0.94,0.28,0.17,0.03,Twitter,None,Real
+134,Audio,Entertainment,1,Yes,0.59,0.64,0.18,0.54,Instagram,VoiceClone,Fake
+135,Image,Interview,0,Yes,0.93,0.06,0.6,0.11,YouTube,None,Real
+136,Image,Social Media,2,No,0.85,0.08,0.62,0.15,Facebook,None,Real
+137,Audio,Interview,2,Yes,0.97,0.01,0.13,0.26,YouTube,None,Real
+138,Image,Entertainment,2,Yes,0.96,0.29,0.28,0.24,Twitter,None,Real
+139,Video,Entertainment,3,No,0.91,0.0,0.68,0.01,Facebook,None,Real
+140,Image,Social Media,1,Yes,0.85,0.26,0.35,0.14,Instagram,None,Real
+141,Image,Social Media,2,No,0.51,0.92,0.71,0.71,TikTok,VoiceClone,Fake
+142,Video,Political Speech,4,Yes,0.9,0.21,0.96,0.19,YouTube,None,Real
+143,Image,News,3,No,0.7,0.26,0.83,0.25,Facebook,None,Real
+144,Image,Interview,1,No,0.06,0.52,0.01,0.6,Facebook,VoiceClone,Fake
+145,Image,News,3,No,0.79,0.04,0.18,0.01,Facebook,None,Real
+146,Audio,Interview,3,No,0.75,0.24,0.71,0.23,News Website,None,Real
+147,Video,Entertainment,3,No,0.72,0.02,0.65,0.26,Twitter,None,Real
+148,Audio,Social Media,2,No,0.72,0.12,0.0,0.25,Instagram,None,Real
+149,Audio,Entertainment,4,Yes,0.3,1.0,0.22,0.67,Instagram,FaceSwap,Fake
+150,Image,Political Speech,3,Yes,0.9,0.2,0.94,0.08,Facebook,None,Real
+151,Audio,Interview,1,No,0.93,0.29,0.72,0.13,Instagram,None,Real
+152,Video,Political Speech,2,No,0.96,0.06,0.16,0.21,YouTube,None,Real
+153,Video,Political Speech,2,Yes,0.75,0.03,0.13,0.14,Facebook,None,Real
+154,Video,Interview,3,No,0.13,0.98,0.43,0.68,News Website,Diffusion,Fake
+155,Video,Social Media,4,Yes,0.46,0.5,0.01,0.6,Instagram,GAN,Fake
+156,Audio,Entertainment,0,Yes,0.68,0.64,0.95,0.83,YouTube,Diffusion,Fake
+157,Image,Political Speech,3,Yes,0.07,0.69,0.56,0.55,Instagram,VoiceClone,Fake
+158,Image,Entertainment,3,No,0.06,0.71,0.4,0.61,Instagram,GAN,Fake
+159,Video,Political Speech,0,No,0.49,0.52,0.64,0.89,TikTok,VoiceClone,Fake
+160,Image,News,3,No,0.98,0.01,0.95,0.02,Twitter,None,Real
+161,Video,News,1,Yes,0.57,0.6,0.64,0.45,YouTube,Diffusion,Fake
+162,Image,Interview,4,Yes,0.51,0.66,0.22,0.76,News Website,FaceSwap,Fake
+163,Audio,Political Speech,1,No,0.55,0.51,0.72,0.8,News Website,GAN,Fake
+164,Video,Social Media,2,Yes,0.99,0.3,0.07,0.2,YouTube,None,Real
+165,Image,Political Speech,4,No,0.96,0.14,0.74,0.22,News Website,None,Real
+166,Video,Entertainment,1,No,0.61,0.42,0.61,0.75,Instagram,Diffusion,Fake
+167,Image,Political Speech,2,Yes,0.69,0.79,0.47,0.57,Facebook,FaceSwap,Fake
+168,Video,News,3,No,0.93,0.07,0.97,0.12,Facebook,None,Real
+169,Image,Interview,3,No,0.83,0.02,0.1,0.03,YouTube,None,Real
+170,Image,Interview,3,No,0.82,0.09,0.4,0.26,TikTok,None,Real
+171,Video,Interview,0,Yes,0.23,0.67,0.25,0.67,TikTok,VoiceClone,Fake
+172,Audio,Entertainment,4,No,0.25,0.55,0.47,0.63,YouTube,GAN,Fake
+173,Audio,Entertainment,3,No,0.6,0.67,0.99,0.73,YouTube,Diffusion,Fake
+174,Audio,Entertainment,4,Yes,0.72,0.07,0.32,0.19,YouTube,None,Real
+175,Audio,Social Media,1,Yes,0.74,0.01,0.64,0.3,YouTube,None,Real
+176,Video,Political Speech,4,No,0.85,0.14,0.7,0.15,Instagram,None,Real
+177,Image,Entertainment,1,Yes,0.13,0.5,0.84,0.84,Instagram,VoiceClone,Fake
+178,Audio,Interview,3,Yes,0.85,0.2,0.93,0.19,News Website,None,Real
+179,Image,Interview,1,No,0.66,0.76,0.66,0.9,Instagram,GAN,Fake
+180,Image,Interview,4,Yes,0.61,0.59,0.29,1.0,TikTok,FaceSwap,Fake
+181,Video,News,1,Yes,0.23,0.64,0.8,0.8,TikTok,FaceSwap,Fake
+182,Image,Entertainment,0,No,0.74,0.25,0.61,0.16,Facebook,None,Real
+183,Image,Social Media,3,No,0.83,0.12,0.07,0.07,TikTok,None,Real
+184,Image,News,1,No,0.53,0.79,0.91,0.7,Facebook,FaceSwap,Fake
+185,Audio,Social Media,1,No,0.28,0.63,0.96,0.75,Facebook,GAN,Fake
+186,Audio,Interview,3,Yes,0.7,0.06,0.38,0.19,Twitter,None,Real
+187,Image,Political Speech,2,Yes,0.76,0.14,0.8,0.05,TikTok,None,Real
+188,Image,Political Speech,1,Yes,0.5,0.45,0.52,0.64,Twitter,Diffusion,Fake
+189,Video,Entertainment,1,No,0.5,0.72,0.96,0.46,Twitter,VoiceClone,Fake
+190,Audio,Social Media,4,Yes,0.26,0.89,0.64,0.72,Facebook,VoiceClone,Fake
+191,Video,Interview,4,No,0.15,0.54,0.9,0.77,YouTube,Diffusion,Fake
+192,Audio,News,0,No,0.19,0.87,0.77,0.89,Instagram,VoiceClone,Fake
+193,Video,Interview,4,Yes,0.75,0.13,0.18,0.07,Facebook,None,Real
+194,Image,Entertainment,4,Yes,0.76,0.07,0.5,0.19,Instagram,None,Real
+195,Image,Interview,0,Yes,0.47,0.76,0.99,0.67,Twitter,VoiceClone,Fake
+196,Image,Political Speech,4,Yes,0.24,0.76,0.6,0.94,YouTube,VoiceClone,Fake
+197,Image,Political Speech,1,No,0.25,0.54,0.8,0.44,TikTok,GAN,Fake
+198,Image,News,2,No,0.41,0.56,0.67,0.81,Twitter,GAN,Fake
+199,Video,Political Speech,1,No,0.51,0.73,0.96,0.68,Facebook,FaceSwap,Fake
+200,Video,Interview,3,Yes,0.75,0.23,0.3,0.12,Twitter,None,Real
+201,Video,Entertainment,3,No,0.77,0.28,0.77,0.12,YouTube,None,Real
+202,Audio,Interview,4,No,0.73,0.2,0.51,0.08,Twitter,None,Real
+203,Video,Interview,4,No,0.21,0.42,0.94,0.56,YouTube,GAN,Fake
+204,Video,Social Media,2,Yes,0.82,0.09,0.99,0.13,Facebook,None,Real
+205,Image,Social Media,1,No,0.28,0.7,0.72,0.72,TikTok,FaceSwap,Fake
+206,Video,Social Media,1,Yes,0.06,0.58,0.35,0.64,Twitter,VoiceClone,Fake
+207,Image,Political Speech,0,No,0.4,0.96,0.9,0.69,News Website,Diffusion,Fake
+208,Image,Entertainment,1,No,0.99,0.1,0.48,0.25,Twitter,None,Real
+209,Image,Political Speech,1,Yes,0.72,0.07,0.11,0.23,News Website,None,Real
+210,Audio,Social Media,4,Yes,0.42,0.41,0.19,0.62,YouTube,GAN,Fake
+211,Image,Social Media,0,Yes,0.04,1.0,0.07,0.82,Twitter,FaceSwap,Fake
+212,Audio,Interview,4,Yes,0.48,0.46,0.22,0.44,Facebook,FaceSwap,Fake
+213,Audio,Entertainment,2,Yes,0.3,0.72,0.53,0.48,News Website,Diffusion,Fake
+214,Video,Social Media,4,No,0.54,0.84,0.79,0.41,Facebook,VoiceClone,Fake
+215,Image,News,1,Yes,0.37,0.48,0.98,0.53,Instagram,VoiceClone,Fake
+216,Audio,Entertainment,3,No,0.85,0.29,0.1,0.03,Instagram,None,Real
+217,Audio,Interview,4,No,0.17,0.92,0.86,0.79,Instagram,Diffusion,Fake
+218,Image,Interview,0,No,0.74,0.29,0.44,0.03,Facebook,None,Real
+219,Image,Political Speech,2,Yes,0.71,0.25,0.66,0.27,TikTok,None,Real
+220,Image,Social Media,4,No,0.62,0.54,0.99,0.67,Facebook,Diffusion,Fake
+221,Audio,Social Media,0,Yes,0.52,0.42,0.51,0.8,Instagram,GAN,Fake
+222,Audio,Social Media,3,Yes,0.8,0.09,0.17,0.23,Facebook,None,Real
+223,Video,Political Speech,0,Yes,0.93,0.2,0.78,0.08,YouTube,None,Real
+224,Video,Political Speech,0,Yes,0.76,0.11,0.96,0.04,News Website,None,Real
+225,Video,Entertainment,4,No,0.94,0.29,0.75,0.09,Twitter,None,Real
+226,Image,Interview,2,No,0.08,0.43,0.44,0.76,YouTube,VoiceClone,Fake
+227,Audio,Interview,4,Yes,0.65,0.56,0.67,0.81,News Website,FaceSwap,Fake
+228,Image,Entertainment,4,No,0.78,0.26,0.84,0.16,News Website,None,Real
+229,Video,Social Media,0,No,0.72,0.05,0.54,0.1,Facebook,None,Real
+230,Audio,Social Media,3,Yes,0.51,0.48,0.41,0.89,Facebook,FaceSwap,Fake
+231,Audio,Entertainment,3,Yes,0.88,0.22,0.88,0.03,Facebook,None,Real
+232,Image,Social Media,0,No,0.87,0.05,0.1,0.24,Instagram,None,Real
+233,Audio,Social Media,1,Yes,0.52,0.59,0.38,0.89,YouTube,VoiceClone,Fake
+234,Image,Interview,1,Yes,0.53,0.4,0.37,0.42,TikTok,Diffusion,Fake
+235,Video,Political Speech,4,No,0.33,0.91,0.72,0.7,News Website,VoiceClone,Fake
+236,Audio,Entertainment,1,No,0.9,0.04,0.17,0.0,Twitter,None,Real
+237,Image,Social Media,4,No,0.82,0.12,0.23,0.26,Twitter,None,Real
+238,Audio,Political Speech,3,Yes,0.47,0.76,0.5,0.88,News Website,Diffusion,Fake
+239,Video,Entertainment,3,No,0.8,0.02,0.52,0.24,Facebook,None,Real
+240,Image,Social Media,3,Yes,0.3,0.6,0.77,0.45,YouTube,FaceSwap,Fake
+241,Audio,Social Media,3,Yes,0.29,0.79,0.74,0.78,Instagram,FaceSwap,Fake
+242,Image,Social Media,0,No,0.25,0.51,0.83,0.6,Facebook,GAN,Fake
+243,Audio,News,2,Yes,0.55,0.96,0.84,0.43,Facebook,GAN,Fake
+244,Video,Political Speech,1,Yes,0.66,0.66,0.44,0.82,YouTube,GAN,Fake
+245,Image,Political Speech,0,No,0.16,0.43,0.01,0.48,Twitter,FaceSwap,Fake
+246,Video,News,1,Yes,0.19,0.42,0.78,0.57,Twitter,FaceSwap,Fake
+247,Video,Social Media,0,Yes,0.71,0.15,0.53,0.02,YouTube,None,Real
+248,Audio,Political Speech,4,No,0.97,0.1,0.83,0.01,News Website,None,Real
+249,Audio,News,4,No,0.99,0.15,0.34,0.04,TikTok,None,Real
+250,Image,News,4,No,0.99,0.28,0.42,0.05,YouTube,None,Real
+251,Image,News,3,No,0.86,0.21,0.54,0.29,News Website,None,Real
+252,Image,News,4,Yes,0.72,0.16,0.95,0.14,YouTube,None,Real
+253,Video,Political Speech,3,Yes,0.29,0.68,0.46,0.79,TikTok,FaceSwap,Fake
+254,Video,Political Speech,3,No,0.8,0.15,0.02,0.26,Facebook,None,Real
+255,Image,News,3,No,0.96,0.26,0.56,0.07,Instagram,None,Real
+256,Video,Political Speech,2,No,0.8,0.03,0.37,0.08,YouTube,None,Real
+257,Video,Political Speech,3,Yes,0.93,0.11,0.58,0.29,Facebook,None,Real
+258,Video,News,3,No,0.14,0.79,0.56,0.94,Instagram,VoiceClone,Fake
+259,Audio,Interview,3,Yes,0.81,0.18,0.03,0.27,Facebook,None,Real
+260,Video,Social Media,0,No,0.22,0.89,0.74,0.88,YouTube,Diffusion,Fake
+261,Video,Political Speech,3,No,0.74,0.15,0.98,0.22,TikTok,None,Real
+262,Image,Political Speech,1,No,0.91,0.04,0.08,0.03,Facebook,None,Real
+263,Video,Social Media,3,No,0.96,0.06,0.99,0.25,Instagram,None,Real
+264,Video,Social Media,3,No,0.79,0.2,0.53,0.08,Facebook,None,Real
+265,Video,Interview,2,Yes,0.5,0.45,0.19,0.65,TikTok,Diffusion,Fake
+266,Audio,Social Media,2,Yes,0.87,0.13,0.13,0.22,Instagram,None,Real
+267,Image,Political Speech,3,Yes,0.05,0.81,0.84,0.5,TikTok,VoiceClone,Fake
+268,Audio,Interview,4,Yes,0.21,0.71,0.65,0.53,News Website,FaceSwap,Fake
+269,Audio,News,2,Yes,0.57,0.54,0.87,0.44,TikTok,Diffusion,Fake
+270,Video,Political Speech,4,No,0.82,0.05,0.13,0.11,TikTok,None,Real
+271,Video,News,0,Yes,0.3,0.47,0.97,0.43,TikTok,VoiceClone,Fake
+272,Audio,Interview,2,No,0.01,0.88,0.83,0.98,Twitter,VoiceClone,Fake
+273,Image,Political Speech,0,No,0.73,0.26,0.05,0.21,YouTube,None,Real
+274,Audio,Interview,3,Yes,0.42,0.58,0.9,0.58,Instagram,Diffusion,Fake
+275,Audio,Entertainment,0,No,0.8,0.1,0.03,0.3,TikTok,None,Real
+276,Image,Political Speech,4,Yes,0.96,0.3,0.49,0.16,Facebook,None,Real
+277,Video,Interview,4,Yes,0.71,0.16,0.43,0.26,Twitter,None,Real
+278,Image,Entertainment,2,No,0.1,0.68,0.59,0.6,Facebook,Diffusion,Fake
+279,Video,Political Speech,4,Yes,0.85,0.07,0.65,0.03,Instagram,None,Real
+280,Video,Interview,1,Yes,0.69,0.68,0.04,0.56,News Website,FaceSwap,Fake
+281,Image,Entertainment,0,Yes,0.19,0.48,0.2,0.98,TikTok,VoiceClone,Fake
+282,Image,Interview,2,No,0.41,0.68,0.11,0.72,Instagram,GAN,Fake
+283,Audio,Interview,0,No,0.87,0.24,0.09,0.15,YouTube,None,Real
+284,Image,Entertainment,2,No,0.8,0.03,0.99,0.15,Facebook,None,Real
+285,Image,Entertainment,4,No,0.82,0.08,0.67,0.13,YouTube,None,Real
+286,Image,Social Media,4,Yes,0.99,0.22,0.06,0.22,Twitter,None,Real
+287,Video,Entertainment,2,Yes,0.27,0.47,0.42,0.67,Twitter,FaceSwap,Fake
+288,Audio,News,4,Yes,0.72,0.02,0.65,0.11,TikTok,None,Real
+289,Image,Interview,3,Yes,0.85,0.18,0.72,0.04,TikTok,None,Real
+290,Video,Interview,0,No,0.72,0.27,0.53,0.16,TikTok,None,Real
+291,Video,Interview,0,Yes,0.82,0.03,0.82,0.27,News Website,None,Real
+292,Audio,Interview,4,No,0.3,0.82,0.79,0.8,Twitter,GAN,Fake
+293,Image,Social Media,1,Yes,0.32,0.63,0.6,0.75,Twitter,FaceSwap,Fake
+294,Audio,Political Speech,4,No,0.36,0.72,0.76,0.5,Twitter,GAN,Fake
+295,Audio,Social Media,2,Yes,0.89,0.01,0.1,0.19,Facebook,None,Real
+296,Audio,Political Speech,0,Yes,0.41,0.91,0.97,0.74,News Website,FaceSwap,Fake
+297,Audio,Social Media,2,No,0.67,0.7,0.4,0.63,News Website,Diffusion,Fake
+298,Video,Entertainment,4,No,0.85,0.04,0.37,0.04,TikTok,None,Real
+299,Image,Entertainment,2,Yes,1.0,0.13,0.15,0.16,YouTube,None,Real
+300,Image,Interview,4,No,0.93,0.29,0.17,0.29,Facebook,None,Real
+301,Image,Social Media,1,Yes,0.81,0.25,0.51,0.25,Twitter,None,Real
+302,Audio,Entertainment,2,Yes,0.87,0.29,0.63,0.1,TikTok,None,Real
+303,Video,Interview,1,Yes,0.51,0.87,0.2,0.58,Facebook,VoiceClone,Fake
+304,Audio,Social Media,4,No,0.5,0.91,0.72,0.94,Facebook,Diffusion,Fake
+305,Image,Interview,3,Yes,0.74,0.26,0.88,0.24,Twitter,None,Real
+306,Video,News,3,No,0.36,0.97,0.52,0.46,News Website,GAN,Fake
+307,Video,Interview,2,Yes,0.36,0.63,0.98,0.7,Instagram,VoiceClone,Fake
+308,Audio,Interview,3,Yes,0.41,0.76,0.44,0.88,YouTube,VoiceClone,Fake
+309,Audio,Entertainment,4,Yes,0.72,0.27,0.63,0.27,Instagram,None,Real
+310,Video,Entertainment,3,No,0.51,0.81,0.33,0.82,TikTok,FaceSwap,Fake
+311,Video,Interview,2,Yes,0.01,0.97,0.34,1.0,Facebook,FaceSwap,Fake
+312,Image,Interview,3,Yes,0.7,0.02,0.61,0.28,YouTube,None,Real
+313,Audio,Social Media,2,No,0.48,0.57,0.81,0.41,Facebook,FaceSwap,Fake
+314,Video,Interview,1,No,0.07,0.4,0.24,0.92,News Website,FaceSwap,Fake
+315,Video,Social Media,2,No,0.28,0.44,0.32,0.58,Facebook,FaceSwap,Fake
+316,Image,Social Media,4,Yes,0.89,0.07,0.65,0.29,News Website,None,Real
+317,Video,Political Speech,3,No,0.85,0.27,0.68,0.13,News Website,None,Real
+318,Video,Political Speech,4,Yes,0.21,0.54,0.78,0.57,Instagram,Diffusion,Fake
+319,Audio,Social Media,0,No,0.62,0.5,0.4,0.89,YouTube,VoiceClone,Fake
+320,Video,Interview,1,No,0.93,0.06,0.0,0.21,Facebook,None,Real
+321,Audio,Social Media,0,Yes,0.65,0.45,0.87,0.9,Twitter,GAN,Fake
+322,Audio,Entertainment,0,No,0.3,0.94,0.04,0.95,Facebook,FaceSwap,Fake
+323,Audio,Entertainment,4,Yes,0.95,0.28,0.67,0.2,YouTube,None,Real
+324,Image,Entertainment,3,Yes,0.47,0.48,0.63,0.97,Facebook,Diffusion,Fake
+325,Image,Social Media,1,No,0.67,0.62,0.37,0.7,Twitter,GAN,Fake
+326,Image,Political Speech,1,No,0.93,0.02,0.37,0.12,News Website,None,Real
+327,Audio,Entertainment,4,No,0.89,0.22,0.39,0.24,Twitter,None,Real
+328,Video,Interview,3,Yes,0.45,0.59,0.29,0.64,TikTok,VoiceClone,Fake
+329,Audio,Entertainment,1,No,0.73,0.02,0.24,0.15,News Website,None,Real
+330,Image,Social Media,0,No,0.09,0.41,0.6,0.65,Facebook,FaceSwap,Fake
+331,Image,Political Speech,3,No,0.71,0.26,0.77,0.12,Twitter,None,Real
+332,Video,Interview,1,Yes,0.01,0.48,0.27,0.86,Facebook,Diffusion,Fake
+333,Video,Political Speech,2,Yes,0.86,0.23,0.65,0.1,Twitter,None,Real
+334,Audio,Interview,4,No,0.86,0.2,0.15,0.25,TikTok,None,Real
+335,Audio,Political Speech,3,No,0.77,0.07,0.58,0.15,YouTube,None,Real
+336,Audio,Political Speech,0,Yes,1.0,0.24,0.23,0.16,Twitter,None,Real
+337,Image,Social Media,2,Yes,0.89,0.04,0.81,0.23,Twitter,None,Real
+338,Audio,Political Speech,3,Yes,0.89,0.05,0.89,0.24,YouTube,None,Real
+339,Image,Social Media,0,No,0.65,0.81,0.3,0.7,Instagram,FaceSwap,Fake
+340,Video,News,1,No,0.98,0.11,0.43,0.29,News Website,None,Real
+341,Audio,Political Speech,0,Yes,0.83,0.05,0.98,0.06,Facebook,None,Real
+342,Audio,Political Speech,2,No,0.46,0.64,0.52,0.47,Twitter,VoiceClone,Fake
+343,Video,News,1,No,0.98,0.14,0.19,0.05,TikTok,None,Real
+344,Image,News,1,Yes,0.98,0.27,0.39,0.29,Instagram,None,Real
+345,Audio,Interview,2,No,0.17,0.83,0.57,0.78,News Website,FaceSwap,Fake
+346,Image,Political Speech,3,No,0.7,0.15,0.8,0.0,Facebook,None,Real
+347,Audio,Entertainment,2,Yes,0.59,0.59,0.4,0.84,Twitter,FaceSwap,Fake
+348,Audio,Social Media,1,Yes,0.97,0.0,0.49,0.05,YouTube,None,Real
+349,Video,Social Media,2,Yes,0.89,0.14,0.44,0.03,Instagram,None,Real
+350,Audio,News,3,Yes,0.18,0.87,0.24,0.74,Instagram,GAN,Fake
+351,Image,Interview,4,No,0.02,0.98,0.96,0.9,News Website,GAN,Fake
+352,Audio,Social Media,4,Yes,0.67,0.57,0.33,0.75,TikTok,Diffusion,Fake
+353,Video,Entertainment,4,No,0.83,0.04,0.78,0.27,Instagram,None,Real
+354,Audio,Political Speech,0,Yes,0.14,0.73,0.07,0.55,TikTok,VoiceClone,Fake
+355,Audio,Entertainment,3,No,0.73,0.14,0.77,0.25,Instagram,None,Real
+356,Audio,Entertainment,4,Yes,0.32,0.71,0.13,0.43,News Website,VoiceClone,Fake
+357,Image,Interview,1,No,0.82,0.0,0.23,0.16,News Website,None,Real
+358,Audio,Political Speech,3,No,0.77,0.09,0.22,0.0,Twitter,None,Real
+359,Video,Entertainment,0,No,0.93,0.12,0.82,0.18,News Website,None,Real
+360,Audio,Entertainment,4,No,0.97,0.11,0.66,0.24,TikTok,None,Real
+361,Audio,Interview,0,Yes,0.91,0.16,0.63,0.05,News Website,None,Real
+362,Audio,Entertainment,4,No,0.98,0.11,0.78,0.19,YouTube,None,Real
+363,Audio,Social Media,0,Yes,0.98,0.11,0.69,0.25,Facebook,None,Real
+364,Image,Political Speech,3,Yes,0.56,0.56,0.86,0.52,YouTube,GAN,Fake
+365,Audio,News,3,No,0.66,0.74,0.39,0.7,Twitter,Diffusion,Fake
+366,Video,Interview,1,Yes,0.59,0.42,0.1,0.41,TikTok,GAN,Fake
+367,Audio,Entertainment,0,Yes,0.86,0.25,0.72,0.29,News Website,None,Real
+368,Audio,Social Media,1,Yes,0.5,0.98,0.16,0.97,Twitter,GAN,Fake
+369,Audio,Social Media,1,No,0.57,0.59,0.98,0.7,TikTok,VoiceClone,Fake
+370,Video,Entertainment,2,Yes,0.04,0.8,0.35,0.73,YouTube,Diffusion,Fake
+371,Audio,Interview,1,No,0.61,0.66,0.33,0.76,News Website,GAN,Fake
+372,Image,Entertainment,3,No,0.76,0.02,0.73,0.11,News Website,None,Real
+373,Image,News,1,Yes,0.93,0.13,0.98,0.03,Instagram,None,Real
+374,Video,Interview,4,No,0.07,0.99,0.7,0.73,YouTube,GAN,Fake
+375,Video,News,0,Yes,0.82,0.1,0.27,0.08,Twitter,None,Real
+376,Audio,Entertainment,3,Yes,0.1,0.81,0.43,0.76,Twitter,FaceSwap,Fake
+377,Video,Social Media,2,No,0.45,0.77,0.45,0.56,News Website,VoiceClone,Fake
+378,Image,Social Media,1,Yes,0.77,0.16,0.15,0.0,TikTok,None,Real
+379,Video,Interview,4,No,0.14,0.93,0.63,0.75,Facebook,VoiceClone,Fake
+380,Image,Entertainment,1,No,0.32,0.55,0.67,0.97,News Website,VoiceClone,Fake
+381,Audio,Entertainment,0,No,0.92,0.15,0.86,0.1,Twitter,None,Real
+382,Image,Social Media,0,Yes,0.83,0.15,0.24,0.3,Twitter,None,Real
+383,Audio,Interview,0,No,0.76,0.03,0.27,0.26,Instagram,None,Real
+384,Audio,News,1,No,0.51,0.68,0.81,0.76,TikTok,VoiceClone,Fake
+385,Video,Interview,2,No,0.55,0.57,0.29,0.64,News Website,VoiceClone,Fake
+386,Image,Political Speech,3,Yes,0.41,0.95,0.9,0.72,YouTube,GAN,Fake
+387,Audio,Political Speech,1,No,0.29,0.87,0.44,0.92,Twitter,Diffusion,Fake
+388,Video,Social Media,1,Yes,0.72,0.28,0.2,0.25,News Website,None,Real
+389,Audio,Interview,2,No,0.34,0.43,0.01,0.96,YouTube,VoiceClone,Fake
+390,Image,News,3,Yes,0.73,0.28,0.75,0.15,TikTok,None,Real
+391,Image,Political Speech,3,No,0.83,0.25,0.44,0.24,Instagram,None,Real
+392,Image,Entertainment,4,No,0.92,0.08,0.63,0.02,YouTube,None,Real
+393,Image,Social Media,4,Yes,0.61,0.96,0.35,0.46,YouTube,FaceSwap,Fake
+394,Audio,Interview,0,Yes,0.59,0.81,0.46,0.92,Facebook,GAN,Fake
+395,Audio,Entertainment,1,Yes,0.34,0.63,0.73,0.66,Instagram,FaceSwap,Fake
+396,Video,Social Media,1,No,0.24,0.72,0.63,0.65,TikTok,FaceSwap,Fake
+397,Audio,Social Media,3,No,0.43,0.71,0.62,0.55,Facebook,FaceSwap,Fake
+398,Video,News,0,Yes,0.83,0.12,0.5,0.16,TikTok,None,Real
+399,Image,Interview,4,No,0.89,0.26,0.93,0.16,Instagram,None,Real
+400,Audio,News,0,Yes,0.82,0.06,0.42,0.27,YouTube,None,Real
+401,Image,Entertainment,2,No,0.47,0.91,0.71,0.64,YouTube,GAN,Fake
+402,Video,Interview,2,No,0.53,0.82,0.33,0.68,YouTube,Diffusion,Fake
+403,Image,Social Media,2,Yes,0.76,0.14,0.41,0.26,YouTube,None,Real
+404,Video,Political Speech,0,No,0.14,0.94,0.97,0.44,Twitter,FaceSwap,Fake
+405,Video,Political Speech,4,Yes,0.32,0.99,0.04,0.71,TikTok,GAN,Fake
+406,Audio,Political Speech,2,No,0.92,0.02,0.72,0.18,Instagram,None,Real
+407,Video,Interview,0,No,0.7,0.21,0.63,0.07,Instagram,None,Real
+408,Image,News,1,Yes,0.71,0.03,0.52,0.17,News Website,None,Real
+409,Audio,Political Speech,4,Yes,0.93,0.2,0.17,0.0,YouTube,None,Real
+410,Audio,Social Media,4,No,0.92,0.27,0.77,0.27,Instagram,None,Real
+411,Image,Entertainment,2,No,0.93,0.16,0.39,0.09,TikTok,None,Real
+412,Video,Political Speech,2,Yes,0.76,0.07,0.56,0.13,Instagram,None,Real
+413,Image,Interview,2,No,0.58,0.63,0.75,0.8,Facebook,FaceSwap,Fake
+414,Video,Entertainment,2,No,0.95,0.16,0.82,0.14,Instagram,None,Real
+415,Audio,Political Speech,1,Yes,0.95,0.23,0.75,0.14,YouTube,None,Real
+416,Image,Social Media,4,No,0.18,0.42,0.04,0.42,Instagram,Diffusion,Fake
+417,Audio,Entertainment,4,No,0.14,0.66,0.09,0.71,TikTok,FaceSwap,Fake
+418,Audio,Entertainment,2,No,0.72,0.17,0.67,0.03,TikTok,None,Real
+419,Image,Interview,2,No,0.87,0.14,0.89,0.09,Facebook,None,Real
+420,Image,Social Media,1,Yes,0.7,0.12,0.76,0.02,TikTok,None,Real
+421,Audio,Interview,3,Yes,0.29,0.96,0.64,0.64,TikTok,VoiceClone,Fake
+422,Audio,Social Media,1,Yes,0.74,0.2,0.62,0.17,TikTok,None,Real
+423,Image,News,3,No,0.99,0.3,0.59,0.19,TikTok,None,Real
+424,Audio,Social Media,4,No,0.25,0.9,0.5,0.92,YouTube,VoiceClone,Fake
+425,Audio,Interview,3,Yes,0.89,0.21,0.18,0.08,Twitter,None,Real
+426,Video,Political Speech,1,No,0.32,0.75,0.02,0.97,TikTok,FaceSwap,Fake
+427,Video,Social Media,3,No,0.84,0.14,0.95,0.21,Facebook,None,Real
+428,Video,News,2,No,0.95,0.18,0.09,0.19,TikTok,None,Real
+429,Audio,Social Media,4,Yes,0.3,0.42,0.89,0.45,TikTok,Diffusion,Fake
+430,Audio,Political Speech,4,No,0.97,0.24,0.69,0.04,YouTube,None,Real
+431,Audio,Entertainment,3,Yes,0.04,0.91,0.67,0.6,Instagram,VoiceClone,Fake
+432,Video,News,2,No,0.27,0.45,0.06,0.44,Instagram,GAN,Fake
+433,Image,Political Speech,2,No,0.37,0.66,0.63,0.99,Facebook,Diffusion,Fake
+434,Image,Entertainment,3,Yes,0.18,0.48,0.17,0.61,Twitter,Diffusion,Fake
+435,Audio,News,2,No,0.72,0.23,0.62,0.3,News Website,None,Real
+436,Audio,Political Speech,3,No,0.93,0.14,0.88,0.09,YouTube,None,Real
+437,Image,News,0,No,0.82,0.3,0.73,0.21,Instagram,None,Real
+438,Audio,Entertainment,0,No,0.9,0.3,0.89,0.06,Twitter,None,Real
+439,Video,Social Media,3,Yes,0.33,0.71,0.12,0.79,Instagram,VoiceClone,Fake
+440,Image,Entertainment,0,Yes,0.29,0.82,0.18,0.71,TikTok,VoiceClone,Fake
+441,Audio,Interview,4,No,0.85,0.17,0.28,0.19,News Website,None,Real
+442,Video,News,4,No,0.6,0.5,0.97,0.69,News Website,Diffusion,Fake
+443,Audio,Political Speech,0,Yes,0.78,0.24,0.85,0.28,Facebook,None,Real
+444,Video,Political Speech,3,Yes,0.15,0.8,0.62,0.53,Instagram,Diffusion,Fake
+445,Image,Interview,4,Yes,0.53,0.78,0.29,0.49,Instagram,GAN,Fake
+446,Video,Social Media,4,Yes,0.79,0.01,0.01,0.06,Twitter,None,Real
+447,Audio,Interview,4,No,0.88,0.21,0.38,0.23,News Website,None,Real
+448,Audio,Interview,2,No,0.02,0.5,0.67,0.52,Twitter,FaceSwap,Fake
+449,Image,Interview,3,Yes,0.04,0.7,0.84,0.42,YouTube,Diffusion,Fake
+450,Image,Entertainment,0,Yes,0.15,0.85,0.19,0.6,TikTok,VoiceClone,Fake
+451,Audio,Social Media,0,Yes,0.56,0.63,0.24,0.64,Facebook,Diffusion,Fake
+452,Video,Entertainment,4,No,0.98,0.17,0.43,0.12,YouTube,None,Real
+453,Audio,News,2,Yes,0.8,0.07,0.27,0.01,YouTube,None,Real
+454,Image,Social Media,3,No,0.21,0.52,0.35,0.77,YouTube,VoiceClone,Fake
+455,Image,Interview,3,Yes,0.84,0.1,0.44,0.2,TikTok,None,Real
+456,Image,News,1,No,0.06,0.6,0.83,0.67,Twitter,Diffusion,Fake
+457,Image,Political Speech,4,Yes,0.65,0.62,0.91,0.44,TikTok,Diffusion,Fake
+458,Video,Social Media,2,No,0.46,0.68,0.82,0.85,Instagram,Diffusion,Fake
+459,Image,Political Speech,1,Yes,0.7,0.02,0.4,0.06,Instagram,None,Real
+460,Image,Interview,1,No,0.22,0.95,0.94,0.81,Facebook,Diffusion,Fake
+461,Image,Interview,3,No,0.95,0.26,0.68,0.05,Instagram,None,Real
+462,Image,News,4,No,0.3,0.76,0.9,0.5,Twitter,FaceSwap,Fake
+463,Audio,Social Media,1,No,0.87,0.0,0.33,0.03,YouTube,None,Real
+464,Image,Entertainment,2,Yes,0.55,0.55,0.59,0.46,Facebook,VoiceClone,Fake
+465,Audio,Social Media,3,No,0.94,0.27,0.1,0.21,Instagram,None,Real
+466,Video,Political Speech,1,No,0.79,0.17,0.26,0.28,Instagram,None,Real
+467,Image,Political Speech,0,Yes,0.74,0.07,0.22,0.03,Facebook,None,Real
+468,Video,Entertainment,0,No,0.74,0.17,0.48,0.21,Facebook,None,Real
+469,Image,Interview,0,No,0.04,0.49,0.48,0.73,News Website,Diffusion,Fake
+470,Video,Entertainment,2,Yes,0.81,0.07,0.46,0.24,Facebook,None,Real
+471,Audio,Interview,1,No,0.48,0.41,0.94,0.45,Instagram,VoiceClone,Fake
+472,Image,Interview,4,Yes,0.46,0.5,0.42,0.98,TikTok,FaceSwap,Fake
+473,Audio,Political Speech,3,Yes,0.9,0.28,0.4,0.02,Twitter,None,Real
+474,Image,Social Media,3,Yes,0.26,0.77,0.53,0.55,News Website,Diffusion,Fake
+475,Audio,Political Speech,3,Yes,0.82,0.02,0.22,0.05,Facebook,None,Real
+476,Audio,Interview,4,No,0.22,0.46,0.89,0.98,Twitter,VoiceClone,Fake
+477,Video,News,1,No,0.79,0.11,0.68,0.09,Facebook,None,Real
+478,Image,News,4,No,0.95,0.22,0.11,0.04,Facebook,None,Real
+479,Video,Interview,4,No,0.83,0.15,0.57,0.07,TikTok,None,Real
+480,Audio,Political Speech,0,Yes,0.7,0.08,0.21,0.29,News Website,None,Real
+481,Audio,Social Media,4,Yes,0.09,0.66,0.78,0.63,YouTube,FaceSwap,Fake
+482,Image,Interview,1,Yes,0.48,0.8,0.89,0.47,Facebook,Diffusion,Fake
+483,Video,Entertainment,0,No,0.98,0.15,0.9,0.23,YouTube,None,Real
+484,Audio,Political Speech,1,No,0.56,0.6,0.23,0.43,TikTok,FaceSwap,Fake
+485,Video,News,3,Yes,0.99,0.25,0.42,0.04,News Website,None,Real
+486,Image,Social Media,1,No,0.87,0.01,0.01,0.12,Twitter,None,Real
+487,Image,Political Speech,1,No,0.71,0.09,0.28,0.18,TikTok,None,Real
+488,Video,Political Speech,3,Yes,0.97,0.08,0.83,0.11,YouTube,None,Real
+489,Image,News,3,No,0.77,0.07,0.05,0.25,Twitter,None,Real
+490,Image,Political Speech,3,Yes,0.76,0.03,0.44,0.23,TikTok,None,Real
+491,Video,Entertainment,4,Yes,0.86,0.12,0.91,0.05,Facebook,None,Real
+492,Video,Entertainment,3,No,0.25,0.56,0.39,0.65,Instagram,GAN,Fake
+493,Audio,Political Speech,0,Yes,0.99,0.07,0.11,0.1,News Website,None,Real
+494,Video,News,4,No,0.58,0.8,0.66,0.8,TikTok,Diffusion,Fake
+495,Image,News,0,No,0.71,0.02,0.5,0.3,Twitter,None,Real
+496,Image,Entertainment,2,Yes,0.81,0.05,0.47,0.23,Instagram,None,Real
+497,Image,Entertainment,2,No,0.83,0.12,0.82,0.1,Facebook,None,Real
+498,Image,Social Media,3,No,0.57,0.41,0.29,0.42,Twitter,VoiceClone,Fake
+499,Audio,News,2,No,0.78,0.23,0.09,0.26,TikTok,None,Real
+500,Video,News,0,No,0.75,0.04,0.01,0.27,News Website,None,Real
+501,Video,Interview,4,No,0.54,0.57,0.75,0.54,Instagram,Diffusion,Fake
+502,Video,Social Media,2,Yes,0.74,0.02,1.0,0.18,Instagram,None,Real
+503,Image,News,0,No,0.8,0.28,0.84,0.14,Twitter,None,Real
+504,Video,Interview,1,Yes,0.51,0.8,0.81,0.7,Facebook,GAN,Fake
+505,Video,Entertainment,1,No,0.35,0.74,0.34,0.44,Instagram,Diffusion,Fake
+506,Video,Entertainment,3,No,0.5,0.49,0.79,0.58,YouTube,FaceSwap,Fake
+507,Image,Social Media,2,Yes,0.98,0.2,0.66,0.09,TikTok,None,Real
+508,Image,Entertainment,3,Yes,0.51,0.41,0.83,0.59,Twitter,VoiceClone,Fake
+509,Audio,Social Media,0,Yes,0.28,0.46,0.71,0.84,YouTube,GAN,Fake
+510,Image,Social Media,3,Yes,0.06,0.49,0.9,0.89,Facebook,VoiceClone,Fake
+511,Audio,Interview,0,No,0.27,0.73,0.14,0.76,TikTok,VoiceClone,Fake
+512,Video,Social Media,3,No,0.83,0.3,0.46,0.16,Instagram,None,Real
+513,Video,Entertainment,2,Yes,0.82,0.09,0.63,0.2,TikTok,None,Real
+514,Image,Political Speech,2,No,0.91,0.17,0.99,0.21,TikTok,None,Real
+515,Audio,Entertainment,4,No,0.9,0.23,0.23,0.23,Twitter,None,Real
+516,Image,Political Speech,0,No,0.2,0.71,0.65,0.58,TikTok,FaceSwap,Fake
+517,Audio,Social Media,1,Yes,0.16,0.73,0.27,0.78,News Website,VoiceClone,Fake
+518,Audio,Political Speech,2,Yes,0.43,0.58,0.47,0.94,YouTube,Diffusion,Fake
+519,Image,Entertainment,0,Yes,0.24,0.86,0.77,0.96,News Website,FaceSwap,Fake
+520,Audio,News,2,No,0.44,0.98,0.93,0.96,Facebook,GAN,Fake
+521,Image,Entertainment,2,Yes,0.87,0.1,0.51,0.1,News Website,None,Real
+522,Video,Political Speech,4,Yes,1.0,0.2,0.12,0.14,YouTube,None,Real
+523,Video,Political Speech,1,No,0.88,0.0,0.46,0.18,YouTube,None,Real
+524,Video,Interview,4,No,0.67,0.79,0.4,0.49,Twitter,VoiceClone,Fake
+525,Image,Political Speech,2,No,0.82,0.04,0.06,0.05,YouTube,None,Real
+526,Image,Social Media,3,No,0.96,0.18,0.53,0.17,TikTok,None,Real
+527,Image,Social Media,2,Yes,0.74,0.18,0.37,0.05,Facebook,None,Real
+528,Image,Political Speech,2,No,0.8,0.16,0.63,0.14,News Website,None,Real
+529,Audio,News,1,Yes,0.14,0.58,0.33,0.81,News Website,FaceSwap,Fake
+530,Audio,Entertainment,0,No,0.28,0.42,0.48,0.71,Facebook,Diffusion,Fake
+531,Audio,Entertainment,0,Yes,0.24,0.77,0.13,0.92,Instagram,FaceSwap,Fake
+532,Audio,News,3,No,0.04,0.63,0.22,0.76,YouTube,VoiceClone,Fake
+533,Image,News,4,No,0.31,0.52,0.55,0.52,Twitter,VoiceClone,Fake
+534,Audio,Social Media,3,No,0.94,0.19,0.22,0.18,YouTube,None,Real
+535,Image,News,4,No,0.95,0.01,0.84,0.25,TikTok,None,Real
+536,Audio,Social Media,1,No,0.89,0.11,0.24,0.0,TikTok,None,Real
+537,Audio,News,3,Yes,0.36,0.64,0.51,0.69,Facebook,Diffusion,Fake
+538,Image,Political Speech,4,Yes,0.87,0.02,0.05,0.17,News Website,None,Real
+539,Video,Social Media,0,Yes,0.37,0.94,0.94,0.67,YouTube,GAN,Fake
+540,Image,Social Media,4,Yes,0.93,0.24,0.05,0.2,News Website,None,Real
+541,Audio,Interview,3,Yes,0.79,0.03,0.33,0.2,YouTube,None,Real
+542,Video,Social Media,1,No,0.23,0.41,0.55,0.51,News Website,Diffusion,Fake
+543,Audio,News,1,No,0.73,0.07,0.55,0.05,Instagram,None,Real
+544,Image,Social Media,2,Yes,0.72,0.28,0.32,0.08,Instagram,None,Real
+545,Audio,Social Media,2,No,0.16,0.9,0.81,0.64,Twitter,FaceSwap,Fake
+546,Image,Interview,4,No,0.58,0.75,0.89,0.88,TikTok,Diffusion,Fake
+547,Video,Political Speech,2,No,0.43,0.81,0.99,0.74,Twitter,Diffusion,Fake
+548,Image,Interview,0,No,0.96,0.28,0.36,0.27,TikTok,None,Real
+549,Audio,Interview,4,Yes,0.81,0.13,0.2,0.18,TikTok,None,Real
+550,Audio,News,1,No,0.72,0.07,0.56,0.25,News Website,None,Real
+551,Video,Entertainment,4,Yes,0.87,0.21,0.13,0.24,Facebook,None,Real
+552,Video,News,0,No,0.49,0.44,0.91,0.51,Facebook,GAN,Fake
+553,Audio,Entertainment,2,Yes,0.41,0.41,0.09,0.96,Instagram,FaceSwap,Fake
+554,Image,Political Speech,0,Yes,0.09,0.62,0.49,0.55,News Website,GAN,Fake
+555,Audio,Social Media,0,No,0.79,0.18,0.3,0.19,YouTube,None,Real
+556,Audio,News,1,Yes,0.75,0.1,0.56,0.05,News Website,None,Real
+557,Audio,News,1,No,0.88,0.13,0.71,0.02,Instagram,None,Real
+558,Audio,Interview,4,Yes,0.57,0.64,0.29,0.41,YouTube,Diffusion,Fake
+559,Audio,News,1,Yes,0.62,0.49,0.93,0.68,Instagram,VoiceClone,Fake
+560,Audio,Interview,4,Yes,0.79,0.22,0.22,0.26,Facebook,None,Real
+561,Image,Political Speech,1,No,0.29,0.53,0.41,0.61,Facebook,GAN,Fake
+562,Audio,Interview,1,No,0.81,0.12,0.39,0.27,YouTube,None,Real
+563,Video,Social Media,1,Yes,0.92,0.2,0.43,0.17,News Website,None,Real
+564,Video,Interview,3,Yes,0.28,0.78,0.75,0.4,TikTok,Diffusion,Fake
+565,Video,Social Media,0,Yes,0.9,0.04,0.9,0.19,News Website,None,Real
+566,Video,Interview,4,Yes,0.22,0.55,0.87,0.89,Instagram,VoiceClone,Fake
+567,Image,Interview,0,No,0.48,0.49,0.65,0.97,Instagram,Diffusion,Fake
+568,Video,Entertainment,2,No,0.79,0.04,0.08,0.24,News Website,None,Real
+569,Video,Social Media,0,Yes,0.57,0.85,0.71,0.97,News Website,VoiceClone,Fake
+570,Audio,Interview,2,No,0.12,0.92,0.85,0.43,Twitter,VoiceClone,Fake
+571,Video,Political Speech,4,Yes,0.95,0.05,0.31,0.16,YouTube,None,Real
+572,Audio,Social Media,3,No,0.99,0.24,0.67,0.28,Facebook,None,Real
+573,Audio,News,1,No,0.96,0.11,0.89,0.22,News Website,None,Real
+574,Audio,Entertainment,0,No,0.89,0.2,0.78,0.08,Facebook,None,Real
+575,Video,Political Speech,0,Yes,0.38,0.41,0.52,0.99,News Website,Diffusion,Fake
+576,Video,Social Media,1,Yes,0.85,0.26,0.45,0.15,YouTube,None,Real
+577,Audio,Entertainment,1,No,0.3,0.65,0.67,0.87,TikTok,FaceSwap,Fake
+578,Audio,News,0,Yes,0.71,0.08,0.85,0.28,Facebook,None,Real
+579,Image,News,0,No,0.04,0.61,0.0,0.52,Twitter,Diffusion,Fake
+580,Audio,Interview,1,Yes,0.58,0.57,0.93,0.85,YouTube,Diffusion,Fake
+581,Audio,Social Media,0,No,0.85,0.04,0.23,0.1,Twitter,None,Real
+582,Image,Entertainment,1,No,0.16,0.46,0.34,0.85,Facebook,FaceSwap,Fake
+583,Audio,Social Media,1,No,0.85,0.2,0.46,0.26,TikTok,None,Real
+584,Video,News,0,No,1.0,0.14,0.99,0.23,Twitter,None,Real
+585,Audio,Political Speech,1,Yes,0.37,0.56,0.12,0.92,News Website,VoiceClone,Fake
+586,Image,Interview,2,No,0.0,0.9,0.56,0.58,Twitter,Diffusion,Fake
+587,Video,Entertainment,2,Yes,0.83,0.11,0.54,0.29,YouTube,None,Real
+588,Video,Interview,2,No,0.91,0.1,0.28,0.3,YouTube,None,Real
+589,Image,Entertainment,0,Yes,0.13,0.95,0.48,0.89,Facebook,FaceSwap,Fake
+590,Video,Political Speech,0,No,0.83,0.04,0.93,0.14,TikTok,None,Real
+591,Audio,Political Speech,1,No,0.97,0.25,0.95,0.06,News Website,None,Real
+592,Image,Interview,4,No,0.48,0.5,0.8,0.5,YouTube,Diffusion,Fake
+593,Video,Entertainment,0,Yes,0.38,0.49,0.95,0.45,Facebook,GAN,Fake
+594,Image,Social Media,0,Yes,0.99,0.08,0.14,0.22,Instagram,None,Real
+595,Image,News,2,Yes,0.89,0.15,0.63,0.14,Facebook,None,Real
+596,Audio,News,2,Yes,0.64,0.96,0.82,0.93,Facebook,GAN,Fake
+597,Video,Political Speech,4,No,0.25,0.78,0.24,0.49,YouTube,Diffusion,Fake
+598,Image,Social Media,3,Yes,0.21,0.54,0.19,0.79,TikTok,VoiceClone,Fake
+599,Audio,Interview,3,No,0.08,0.51,0.07,0.93,Instagram,FaceSwap,Fake
+600,Image,Interview,4,No,0.92,0.26,0.15,0.11,YouTube,None,Real
+601,Video,Interview,3,Yes,0.95,0.07,0.11,0.12,Instagram,None,Real
+602,Audio,Entertainment,1,Yes,0.52,0.52,0.88,0.73,Instagram,FaceSwap,Fake
+603,Image,Entertainment,3,No,0.23,0.95,0.5,0.62,TikTok,Diffusion,Fake
+604,Audio,Social Media,1,No,0.35,0.59,0.49,0.53,Instagram,GAN,Fake
+605,Video,Interview,1,Yes,0.31,0.98,0.57,0.69,YouTube,FaceSwap,Fake
+606,Video,Social Media,3,No,0.51,0.59,0.94,0.88,News Website,GAN,Fake
+607,Image,Interview,1,No,0.59,0.88,0.67,0.64,Instagram,Diffusion,Fake
+608,Audio,Interview,2,No,0.43,0.68,0.2,0.69,YouTube,GAN,Fake
+609,Image,News,2,No,0.15,0.69,0.43,0.98,News Website,GAN,Fake
+610,Video,News,3,No,0.86,0.27,0.51,0.21,Twitter,None,Real
+611,Image,Political Speech,1,No,0.25,0.41,0.86,0.6,News Website,FaceSwap,Fake
+612,Video,Social Media,1,No,0.91,0.15,0.65,0.26,News Website,None,Real
+613,Audio,Entertainment,2,No,0.74,0.27,0.47,0.1,TikTok,None,Real
+614,Audio,Entertainment,2,Yes,0.06,0.92,0.43,0.87,Instagram,Diffusion,Fake
+615,Image,Interview,1,Yes,0.86,0.21,0.75,0.19,YouTube,None,Real
+616,Audio,News,3,No,0.98,0.21,0.53,0.22,News Website,None,Real
+617,Audio,Social Media,0,No,0.07,0.89,0.06,0.88,Instagram,GAN,Fake
+618,Video,Entertainment,2,No,0.91,0.21,0.12,0.27,Instagram,None,Real
+619,Audio,Political Speech,0,No,0.47,0.52,0.53,0.77,TikTok,FaceSwap,Fake
+620,Image,News,3,Yes,0.57,0.84,0.66,0.55,News Website,GAN,Fake
+621,Audio,Interview,0,No,0.1,0.88,0.74,0.44,News Website,GAN,Fake
+622,Video,Interview,2,No,0.8,0.14,0.06,0.28,TikTok,None,Real
+623,Video,Interview,2,No,0.36,0.98,0.07,0.77,YouTube,Diffusion,Fake
+624,Image,Political Speech,1,No,0.08,0.91,0.98,0.55,YouTube,Diffusion,Fake
+625,Audio,Entertainment,0,Yes,0.82,0.24,0.25,0.13,YouTube,None,Real
+626,Video,News,4,No,0.83,0.01,0.37,0.17,Instagram,None,Real
+627,Image,Entertainment,0,No,0.99,0.23,0.85,0.29,Instagram,None,Real
+628,Image,Political Speech,1,Yes,0.76,0.09,0.11,0.08,Instagram,None,Real
+629,Audio,Entertainment,2,No,0.75,0.16,0.52,0.02,Instagram,None,Real
+630,Image,Entertainment,3,No,0.01,0.46,0.01,0.98,Instagram,VoiceClone,Fake
+631,Image,Entertainment,4,Yes,0.02,0.61,0.19,0.85,Twitter,Diffusion,Fake
+632,Audio,Political Speech,2,Yes,0.79,0.08,0.63,0.25,Twitter,None,Real
+633,Image,Entertainment,4,Yes,0.76,0.11,0.47,0.21,Facebook,None,Real
+634,Video,Entertainment,3,No,0.76,0.3,0.57,0.04,Facebook,None,Real
+635,Image,Political Speech,0,No,0.27,0.41,0.4,0.58,Twitter,GAN,Fake
+636,Image,News,4,No,0.09,0.9,0.81,0.96,TikTok,Diffusion,Fake
+637,Image,Social Media,1,Yes,0.23,0.57,0.8,0.82,News Website,FaceSwap,Fake
+638,Video,Political Speech,1,No,0.82,0.02,0.72,0.08,YouTube,None,Real
+639,Image,Entertainment,1,Yes,0.94,0.11,0.95,0.13,YouTube,None,Real
+640,Audio,Entertainment,1,Yes,0.88,0.08,0.29,0.15,Twitter,None,Real
+641,Image,Social Media,2,No,0.26,0.57,0.58,0.8,Instagram,GAN,Fake
+642,Image,Social Media,0,No,0.24,0.41,0.5,0.88,Instagram,VoiceClone,Fake
+643,Audio,Social Media,2,No,0.9,0.21,0.86,0.01,YouTube,None,Real
+644,Video,Political Speech,3,Yes,0.56,0.75,0.7,0.92,News Website,FaceSwap,Fake
+645,Image,Political Speech,3,Yes,0.3,1.0,0.22,0.47,News Website,GAN,Fake
+646,Image,Interview,1,Yes,0.95,0.02,0.86,0.09,News Website,None,Real
+647,Audio,Entertainment,3,Yes,0.74,0.06,0.01,0.09,Facebook,None,Real
+648,Video,Interview,4,Yes,0.24,0.96,0.89,0.99,Instagram,VoiceClone,Fake
+649,Image,Political Speech,0,Yes,0.49,0.61,0.64,0.71,News Website,FaceSwap,Fake
+650,Video,Political Speech,4,No,0.71,0.02,0.43,0.01,TikTok,None,Real
+651,Image,Social Media,0,No,0.53,0.41,0.48,0.94,Instagram,FaceSwap,Fake
+652,Image,Political Speech,3,No,0.97,0.27,0.55,0.1,YouTube,None,Real
+653,Image,Social Media,0,Yes,0.41,0.49,0.59,0.57,Instagram,GAN,Fake
+654,Image,Entertainment,3,No,0.83,0.12,0.12,0.22,Instagram,None,Real
+655,Image,Entertainment,0,Yes,0.91,0.14,0.79,0.12,Facebook,None,Real
+656,Video,Social Media,3,Yes,0.06,0.97,0.01,0.5,Instagram,VoiceClone,Fake
+657,Video,Entertainment,2,Yes,0.92,0.21,0.53,0.06,Twitter,None,Real
+658,Image,Interview,3,Yes,0.09,0.43,0.1,0.43,Facebook,GAN,Fake
+659,Audio,Social Media,0,Yes,0.43,0.99,0.35,0.62,Twitter,FaceSwap,Fake
+660,Video,Social Media,2,Yes,0.85,0.23,0.81,0.24,YouTube,None,Real
+661,Audio,Political Speech,1,No,0.85,0.07,0.97,0.08,TikTok,None,Real
+662,Video,News,3,No,0.61,0.79,0.13,0.55,TikTok,FaceSwap,Fake
+663,Audio,Social Media,1,Yes,0.92,0.17,0.51,0.04,News Website,None,Real
+664,Audio,Political Speech,4,No,0.31,0.98,0.11,0.59,YouTube,VoiceClone,Fake
+665,Video,News,3,No,0.71,0.22,0.51,0.28,Instagram,None,Real
+666,Video,Interview,2,No,0.69,0.75,0.38,0.54,Instagram,VoiceClone,Fake
+667,Audio,News,4,No,0.52,0.76,0.31,0.53,TikTok,FaceSwap,Fake
+668,Image,Entertainment,1,No,0.05,0.97,0.09,0.52,YouTube,FaceSwap,Fake
+669,Image,Social Media,4,No,0.51,0.86,0.87,0.4,TikTok,FaceSwap,Fake
+670,Video,Social Media,3,Yes,0.77,0.24,0.78,0.02,Twitter,None,Real
+671,Image,Social Media,0,Yes,0.45,0.41,0.99,0.51,Facebook,FaceSwap,Fake
+672,Audio,Social Media,2,Yes,0.49,0.6,0.82,0.86,Twitter,FaceSwap,Fake
+673,Image,Entertainment,3,Yes,0.69,0.82,0.92,0.54,YouTube,GAN,Fake
+674,Audio,Entertainment,1,Yes,0.87,0.23,0.72,0.08,Facebook,None,Real
+675,Audio,Entertainment,4,No,0.36,0.78,0.93,0.43,Twitter,FaceSwap,Fake
+676,Audio,Interview,4,Yes,0.83,0.02,0.16,0.17,TikTok,None,Real
+677,Audio,Political Speech,0,Yes,0.63,0.58,0.5,0.78,YouTube,FaceSwap,Fake
+678,Video,Entertainment,4,No,0.37,0.68,0.5,0.42,Instagram,GAN,Fake
+679,Image,Social Media,1,No,0.91,0.04,0.52,0.24,Facebook,None,Real
+680,Audio,Entertainment,3,No,0.97,0.08,0.64,0.13,News Website,None,Real
+681,Image,Social Media,4,Yes,0.18,0.43,0.82,0.48,Facebook,GAN,Fake
+682,Image,Entertainment,1,Yes,0.85,0.14,0.44,0.17,News Website,None,Real
+683,Video,News,2,Yes,0.88,0.24,0.22,0.2,News Website,None,Real
+684,Image,Social Media,2,Yes,0.58,0.44,0.26,0.79,YouTube,FaceSwap,Fake
+685,Video,News,3,Yes,0.88,0.23,0.46,0.06,Facebook,None,Real
+686,Video,News,3,No,0.84,0.13,0.53,0.28,YouTube,None,Real
+687,Video,News,4,Yes,0.81,0.29,0.66,0.14,News Website,None,Real
+688,Audio,Interview,4,Yes,0.79,0.08,0.87,0.04,Facebook,None,Real
+689,Video,News,1,No,0.05,0.68,0.42,0.8,News Website,Diffusion,Fake
+690,Video,Entertainment,2,No,0.77,0.26,0.82,0.17,Twitter,None,Real
+691,Image,News,1,Yes,0.44,0.76,0.73,0.72,Twitter,FaceSwap,Fake
+692,Image,Political Speech,4,Yes,0.04,0.51,0.54,0.75,YouTube,GAN,Fake
+693,Image,Social Media,3,No,0.99,0.3,0.72,0.13,Facebook,None,Real
+694,Video,News,0,Yes,0.91,0.27,0.86,0.09,YouTube,None,Real
+695,Audio,Entertainment,1,No,0.76,0.19,0.78,0.03,Instagram,None,Real
+696,Audio,Political Speech,0,Yes,0.04,0.9,0.31,0.85,YouTube,FaceSwap,Fake
+697,Video,Social Media,3,Yes,0.87,0.01,0.91,0.05,YouTube,None,Real
+698,Audio,Interview,2,No,0.68,0.95,0.9,0.53,YouTube,VoiceClone,Fake
+699,Image,Social Media,4,No,0.35,0.9,0.0,0.95,Instagram,VoiceClone,Fake
+700,Audio,Social Media,3,Yes,0.72,0.27,0.88,0.25,YouTube,None,Real
+701,Video,Entertainment,3,No,0.76,0.28,0.68,0.18,YouTube,None,Real
+702,Audio,Interview,1,Yes,0.57,0.44,0.8,0.6,TikTok,Diffusion,Fake
+703,Image,News,1,No,0.14,0.79,0.66,0.46,News Website,Diffusion,Fake
+704,Image,News,4,Yes,0.04,0.53,0.89,0.41,TikTok,GAN,Fake
+705,Video,Social Media,0,Yes,0.8,0.13,0.23,0.06,Instagram,None,Real
+706,Audio,Entertainment,1,No,0.78,0.27,0.45,0.07,Facebook,None,Real
+707,Video,News,1,Yes,0.72,0.07,0.17,0.17,Facebook,None,Real
+708,Video,Interview,4,Yes,0.33,0.77,0.16,0.93,YouTube,GAN,Fake
+709,Video,News,0,Yes,0.94,0.09,0.82,0.2,TikTok,None,Real
+710,Image,News,1,No,0.42,0.64,0.27,0.46,Instagram,VoiceClone,Fake
+711,Image,Political Speech,3,Yes,0.05,0.88,0.08,0.65,Instagram,GAN,Fake
+712,Image,Social Media,1,No,0.68,0.48,0.78,0.98,Instagram,GAN,Fake
+713,Audio,Political Speech,0,Yes,0.73,0.08,0.17,0.12,Twitter,None,Real
+714,Image,Political Speech,3,Yes,0.78,0.25,0.93,0.02,Instagram,None,Real
+715,Audio,Interview,1,Yes,0.83,0.25,0.5,0.21,News Website,None,Real
+716,Image,Social Media,3,No,0.02,0.58,0.89,0.78,Twitter,VoiceClone,Fake
+717,Video,Entertainment,3,No,0.77,0.21,0.03,0.27,Twitter,None,Real
+718,Video,News,0,Yes,0.15,0.54,0.96,0.84,Twitter,GAN,Fake
+719,Audio,Social Media,1,Yes,0.24,0.8,0.46,0.41,Instagram,GAN,Fake
+720,Audio,Interview,1,No,0.5,0.65,0.21,0.67,Facebook,GAN,Fake
+721,Audio,Entertainment,3,Yes,0.4,0.44,0.54,0.76,YouTube,Diffusion,Fake
+722,Image,Interview,1,No,0.72,0.21,0.49,0.27,News Website,None,Real
+723,Video,Social Media,0,No,0.63,0.92,0.62,0.4,YouTube,GAN,Fake
+724,Video,News,3,Yes,0.78,0.07,0.64,0.25,TikTok,None,Real
+725,Image,Interview,1,Yes,0.74,0.14,0.3,0.28,YouTube,None,Real
+726,Video,News,2,No,0.96,0.14,0.38,0.28,Instagram,None,Real
+727,Audio,News,0,No,0.2,0.8,0.96,0.75,TikTok,VoiceClone,Fake
+728,Audio,Entertainment,1,No,0.84,0.09,0.08,0.29,Instagram,None,Real
+729,Audio,News,4,Yes,1.0,0.07,0.64,0.12,Twitter,None,Real
+730,Audio,News,1,No,0.71,0.07,0.86,0.26,Instagram,None,Real
+731,Image,Entertainment,2,No,0.94,0.05,0.31,0.18,YouTube,None,Real
+732,Audio,Political Speech,3,No,0.08,0.48,0.9,0.91,TikTok,VoiceClone,Fake
+733,Video,Entertainment,0,Yes,0.58,0.96,0.95,0.87,TikTok,FaceSwap,Fake
+734,Video,Entertainment,2,No,0.86,0.04,0.54,0.17,TikTok,None,Real
+735,Video,Entertainment,4,No,0.91,0.08,0.01,0.0,Facebook,None,Real
+736,Video,Interview,1,Yes,0.85,0.14,0.77,0.02,News Website,None,Real
+737,Image,Social Media,3,No,0.89,0.04,0.16,0.05,TikTok,None,Real
+738,Image,Interview,2,No,0.72,0.16,0.98,0.19,Facebook,None,Real
+739,Video,Political Speech,3,Yes,0.09,0.85,0.85,0.73,YouTube,Diffusion,Fake
+740,Image,News,1,Yes,0.18,0.45,0.96,0.92,Instagram,Diffusion,Fake
+741,Image,News,1,Yes,0.89,0.07,0.39,0.07,Twitter,None,Real
+742,Video,Entertainment,4,No,0.3,0.48,0.58,0.5,YouTube,GAN,Fake
+743,Video,Entertainment,3,No,0.84,0.06,0.85,0.11,Facebook,None,Real
+744,Image,Interview,4,No,0.04,0.6,0.57,0.73,TikTok,VoiceClone,Fake
+745,Video,News,4,Yes,0.37,0.76,0.31,0.73,Instagram,VoiceClone,Fake
+746,Audio,News,3,Yes,0.79,0.14,0.45,0.01,Instagram,None,Real
+747,Audio,Political Speech,0,No,0.78,0.11,0.08,0.07,Facebook,None,Real
+748,Audio,Interview,4,No,0.85,0.07,0.92,0.09,Facebook,None,Real
+749,Video,Social Media,4,No,0.61,0.52,0.27,0.61,News Website,GAN,Fake
+750,Video,Social Media,0,Yes,0.14,0.45,0.92,0.97,Instagram,Diffusion,Fake
+751,Video,News,2,No,0.35,0.95,0.11,0.67,TikTok,FaceSwap,Fake
+752,Video,Social Media,3,Yes,0.94,0.3,0.28,0.24,Facebook,None,Real
+753,Video,Political Speech,3,No,0.86,0.23,0.7,0.02,News Website,None,Real
+754,Video,Social Media,4,Yes,0.86,0.25,0.78,0.14,News Website,None,Real
+755,Audio,Political Speech,3,Yes,0.44,0.69,0.05,0.97,News Website,FaceSwap,Fake
+756,Audio,Social Media,4,No,0.14,0.81,0.92,0.85,Instagram,Diffusion,Fake
+757,Image,Interview,2,Yes,0.78,0.11,0.06,0.15,Instagram,None,Real
+758,Audio,News,2,No,0.2,0.68,0.17,0.62,Facebook,GAN,Fake
+759,Video,Political Speech,3,No,0.36,0.83,0.8,0.7,News Website,FaceSwap,Fake
+760,Video,News,2,No,0.18,0.45,0.16,0.46,YouTube,VoiceClone,Fake
+761,Audio,Entertainment,1,Yes,0.67,0.46,0.65,0.77,TikTok,Diffusion,Fake
+762,Video,Entertainment,4,No,0.34,0.96,0.24,0.59,Twitter,GAN,Fake
+763,Audio,News,0,Yes,0.78,0.03,0.8,0.16,Twitter,None,Real
+764,Video,Political Speech,1,No,0.73,0.11,0.35,0.19,YouTube,None,Real
+765,Audio,News,1,No,0.7,0.15,0.16,0.15,Twitter,None,Real
+766,Audio,News,1,Yes,0.82,0.13,0.74,0.2,TikTok,None,Real
+767,Image,Social Media,2,No,0.56,0.5,0.12,0.83,Twitter,GAN,Fake
+768,Video,Interview,1,Yes,0.98,0.01,0.85,0.2,TikTok,None,Real
+769,Video,Social Media,2,No,0.95,0.29,0.9,0.15,TikTok,None,Real
+770,Video,Political Speech,4,No,0.05,0.96,0.36,0.73,News Website,FaceSwap,Fake
+771,Audio,Political Speech,0,No,0.39,0.9,0.57,0.86,Facebook,VoiceClone,Fake
+772,Audio,Social Media,1,Yes,0.99,0.13,0.72,0.14,News Website,None,Real
+773,Video,Social Media,2,Yes,0.25,0.93,0.78,0.45,News Website,FaceSwap,Fake
+774,Audio,Political Speech,0,Yes,0.01,0.7,0.52,0.62,Twitter,FaceSwap,Fake
+775,Image,Entertainment,1,Yes,0.24,0.59,0.08,0.52,News Website,Diffusion,Fake
+776,Video,News,0,Yes,0.38,0.71,0.32,0.62,TikTok,VoiceClone,Fake
+777,Video,Political Speech,4,No,0.03,0.43,0.09,0.83,YouTube,FaceSwap,Fake
+778,Image,Political Speech,2,Yes,0.2,0.68,0.42,0.55,News Website,FaceSwap,Fake
+779,Audio,Political Speech,2,Yes,0.88,0.29,0.78,0.21,News Website,None,Real
+780,Audio,Political Speech,0,No,0.32,0.72,0.91,0.97,Instagram,FaceSwap,Fake
+781,Audio,Interview,3,No,0.78,0.19,0.66,0.24,YouTube,None,Real
+782,Image,Entertainment,4,Yes,0.97,0.28,0.95,0.06,Instagram,None,Real
+783,Audio,Social Media,2,No,0.75,0.03,0.74,0.21,Facebook,None,Real
+784,Audio,Interview,0,No,0.73,0.17,0.44,0.12,News Website,None,Real
+785,Image,Social Media,4,No,0.31,0.6,0.87,0.91,YouTube,VoiceClone,Fake
+786,Image,Interview,3,No,0.02,0.71,0.21,0.65,Twitter,VoiceClone,Fake
+787,Image,News,1,No,0.14,0.64,0.47,0.65,TikTok,VoiceClone,Fake
+788,Image,News,3,No,0.07,0.75,0.73,0.84,Instagram,FaceSwap,Fake
+789,Image,Interview,1,Yes,0.54,0.71,0.87,0.74,News Website,GAN,Fake
+790,Audio,Entertainment,1,No,0.51,0.41,0.97,0.42,YouTube,FaceSwap,Fake
+791,Video,Interview,0,Yes,0.88,0.09,0.41,0.01,News Website,None,Real
+792,Audio,News,2,No,0.48,0.99,0.7,0.93,Facebook,FaceSwap,Fake
+793,Audio,News,2,No,0.65,0.44,0.8,0.86,YouTube,VoiceClone,Fake
+794,Video,Political Speech,4,No,0.36,0.95,0.59,0.47,Instagram,VoiceClone,Fake
+795,Video,Political Speech,2,Yes,0.7,0.19,0.16,0.06,YouTube,None,Real
+796,Image,Entertainment,3,No,0.29,0.58,0.41,0.53,Instagram,GAN,Fake
+797,Audio,Interview,3,Yes,0.88,0.29,0.81,0.3,Twitter,None,Real
+798,Image,Political Speech,1,Yes,0.24,0.57,0.09,0.95,Facebook,GAN,Fake
+799,Audio,News,3,Yes,0.51,0.91,0.47,0.99,Facebook,FaceSwap,Fake
+800,Audio,Entertainment,4,No,0.7,0.44,0.23,0.41,TikTok,VoiceClone,Fake
+801,Video,Social Media,4,Yes,0.05,0.41,0.46,0.55,TikTok,FaceSwap,Fake
+802,Video,Interview,0,Yes,0.39,0.98,0.56,0.6,TikTok,FaceSwap,Fake
+803,Image,Political Speech,0,No,0.53,0.85,0.26,0.59,YouTube,FaceSwap,Fake
+804,Image,News,4,Yes,0.04,0.62,0.32,0.85,YouTube,VoiceClone,Fake
+805,Image,Entertainment,4,Yes,0.13,0.81,0.42,0.89,Twitter,VoiceClone,Fake
+806,Video,Political Speech,4,No,0.96,0.02,0.93,0.02,TikTok,None,Real
+807,Video,News,0,Yes,0.97,0.2,0.72,0.26,Facebook,None,Real
+808,Audio,Social Media,0,No,0.32,0.87,0.39,0.58,News Website,GAN,Fake
+809,Image,Interview,3,No,0.63,0.86,0.81,0.67,YouTube,Diffusion,Fake
+810,Audio,Social Media,1,Yes,0.57,0.56,0.25,0.94,News Website,FaceSwap,Fake
+811,Image,News,2,No,0.92,0.03,0.11,0.06,Facebook,None,Real
+812,Video,Political Speech,2,No,0.54,0.87,0.56,0.98,TikTok,FaceSwap,Fake
+813,Image,Entertainment,0,No,0.65,0.73,0.45,0.97,News Website,Diffusion,Fake
+814,Audio,Social Media,4,No,0.85,0.24,0.72,0.27,News Website,None,Real
+815,Video,Political Speech,0,No,0.83,0.27,0.43,0.06,Twitter,None,Real
+816,Audio,Interview,1,No,0.22,0.55,0.44,0.48,Instagram,VoiceClone,Fake
+817,Audio,Political Speech,3,No,0.97,0.22,0.79,0.23,News Website,None,Real
+818,Audio,Entertainment,4,No,0.96,0.19,0.87,0.01,Instagram,None,Real
+819,Audio,Entertainment,4,Yes,0.16,0.79,0.02,0.92,Instagram,FaceSwap,Fake
+820,Video,Political Speech,1,No,0.05,0.73,0.28,0.87,Instagram,GAN,Fake
+821,Video,Interview,3,Yes,0.25,0.8,0.3,0.89,Instagram,FaceSwap,Fake
+822,Image,Political Speech,0,Yes,0.19,0.88,0.44,0.55,Instagram,GAN,Fake
+823,Video,Entertainment,0,Yes,0.29,0.91,0.08,0.45,TikTok,FaceSwap,Fake
+824,Image,Entertainment,0,No,0.4,0.42,0.81,0.87,Twitter,GAN,Fake
+825,Image,Political Speech,4,Yes,0.29,0.41,0.18,0.49,Facebook,FaceSwap,Fake
+826,Image,Political Speech,2,Yes,0.74,0.13,0.85,0.23,Instagram,None,Real
+827,Audio,Interview,4,Yes,0.83,0.26,0.11,0.22,YouTube,None,Real
+828,Image,News,0,No,0.7,0.03,0.06,0.13,YouTube,None,Real
+829,Video,Entertainment,1,No,0.72,0.18,0.52,0.29,Facebook,None,Real
+830,Video,Political Speech,2,No,0.79,0.08,0.16,0.15,Facebook,None,Real
+831,Image,Entertainment,0,Yes,0.88,0.09,0.32,0.04,Facebook,None,Real
+832,Image,News,4,No,0.66,0.87,0.3,0.92,YouTube,FaceSwap,Fake
+833,Audio,Entertainment,2,Yes,0.84,0.1,0.53,0.09,Facebook,None,Real
+834,Audio,Interview,0,No,0.26,0.78,0.82,0.72,Facebook,VoiceClone,Fake
+835,Audio,Political Speech,0,No,0.73,0.05,0.13,0.02,Twitter,None,Real
+836,Video,News,2,No,0.42,0.96,0.97,0.89,News Website,FaceSwap,Fake
+837,Image,Entertainment,1,Yes,0.36,0.44,0.39,0.47,Twitter,FaceSwap,Fake
+838,Audio,Social Media,4,Yes,0.11,0.94,0.97,0.62,Facebook,FaceSwap,Fake
+839,Video,Social Media,1,Yes,0.52,0.83,0.45,0.71,Facebook,GAN,Fake
+840,Audio,Entertainment,2,Yes,0.3,0.91,0.11,0.63,Facebook,FaceSwap,Fake
+841,Audio,News,0,Yes,1.0,0.22,0.81,0.19,Instagram,None,Real
+842,Video,Interview,3,Yes,0.91,0.06,0.5,0.09,Facebook,None,Real
+843,Image,News,1,No,0.8,0.19,0.03,0.26,YouTube,None,Real
+844,Audio,Social Media,3,Yes,0.86,0.02,0.84,0.26,TikTok,None,Real
+845,Audio,News,0,No,0.63,0.68,0.11,0.96,Instagram,VoiceClone,Fake
+846,Audio,Social Media,2,No,0.34,0.72,0.05,0.81,YouTube,Diffusion,Fake
+847,Image,Social Media,3,Yes,0.26,0.88,0.65,0.94,News Website,GAN,Fake
+848,Video,Political Speech,2,Yes,0.9,0.23,0.85,0.16,Twitter,None,Real
+849,Image,News,1,Yes,0.28,0.42,0.51,0.79,Instagram,VoiceClone,Fake
+850,Image,News,1,No,0.83,0.02,0.31,0.01,Instagram,None,Real
+851,Image,Interview,4,No,0.9,0.26,0.88,0.01,Instagram,None,Real
+852,Video,Social Media,4,Yes,0.83,0.14,0.7,0.0,TikTok,None,Real
+853,Audio,News,3,No,0.82,0.16,0.69,0.29,News Website,None,Real
+854,Video,Interview,3,Yes,0.82,0.26,0.17,0.03,News Website,None,Real
+855,Video,Political Speech,0,No,0.74,0.11,0.35,0.2,YouTube,None,Real
+856,Video,Entertainment,3,Yes,0.3,0.58,0.24,0.68,News Website,GAN,Fake
+857,Image,News,2,No,0.98,0.03,0.35,0.17,YouTube,None,Real
+858,Audio,Interview,4,Yes,0.82,0.2,0.53,0.11,Facebook,None,Real
+859,Video,Interview,1,No,0.76,0.07,0.71,0.08,TikTok,None,Real
+860,Image,Political Speech,0,No,0.97,0.01,0.96,0.02,YouTube,None,Real
+861,Video,Political Speech,0,No,0.85,0.18,0.15,0.01,YouTube,None,Real
+862,Video,News,3,No,0.41,0.75,0.54,0.67,Twitter,Diffusion,Fake
+863,Video,News,0,Yes,0.82,0.24,0.73,0.19,YouTube,None,Real
+864,Image,Social Media,2,Yes,0.31,0.48,0.27,0.9,News Website,GAN,Fake
+865,Video,Interview,1,Yes,0.17,0.88,0.68,0.94,News Website,Diffusion,Fake
+866,Video,News,2,No,0.88,0.04,0.18,0.01,YouTube,None,Real
+867,Image,Interview,3,No,0.68,0.41,0.92,0.53,YouTube,Diffusion,Fake
+868,Audio,Entertainment,3,No,0.7,0.17,0.65,0.08,Facebook,None,Real
+869,Image,Political Speech,3,Yes,0.22,0.77,0.13,0.45,Twitter,VoiceClone,Fake
+870,Audio,Interview,3,Yes,0.59,0.59,1.0,0.79,Instagram,VoiceClone,Fake
+871,Video,Entertainment,3,No,0.34,0.59,0.21,0.8,TikTok,Diffusion,Fake
+872,Audio,Interview,1,Yes,0.36,0.51,0.57,0.94,Facebook,VoiceClone,Fake
+873,Video,Interview,0,Yes,0.94,0.15,0.32,0.18,TikTok,None,Real
+874,Audio,News,2,Yes,0.39,0.95,0.2,0.72,YouTube,VoiceClone,Fake
+875,Audio,Political Speech,1,No,0.9,0.23,0.62,0.14,News Website,None,Real
+876,Audio,Entertainment,1,No,0.21,0.45,0.58,0.79,TikTok,GAN,Fake
+877,Video,News,1,No,0.92,0.1,0.5,0.09,TikTok,None,Real
+878,Video,Political Speech,1,No,0.89,0.18,0.9,0.04,TikTok,None,Real
+879,Video,Entertainment,3,No,0.52,0.63,0.77,0.46,Twitter,VoiceClone,Fake
+880,Audio,Entertainment,3,No,0.69,0.59,0.48,0.48,TikTok,FaceSwap,Fake
+881,Audio,Social Media,0,No,0.74,0.05,0.5,0.08,Facebook,None,Real
+882,Audio,News,2,No,0.18,0.93,0.64,0.53,Instagram,VoiceClone,Fake
+883,Audio,Social Media,3,No,0.21,0.95,0.94,0.69,Instagram,FaceSwap,Fake
+884,Image,Political Speech,2,Yes,0.72,0.26,0.11,0.26,YouTube,None,Real
+885,Audio,Political Speech,4,No,0.66,0.95,0.9,0.55,Facebook,VoiceClone,Fake
+886,Audio,Interview,4,Yes,0.87,0.16,0.05,0.1,YouTube,None,Real
+887,Audio,News,0,Yes,0.84,0.1,0.97,0.18,News Website,None,Real
+888,Video,Social Media,1,Yes,0.37,0.47,0.81,0.57,Facebook,Diffusion,Fake
+889,Video,Social Media,0,No,0.78,0.27,0.98,0.27,Instagram,None,Real
+890,Video,Entertainment,4,Yes,0.18,0.67,0.05,0.51,Twitter,GAN,Fake
+891,Video,News,1,No,0.22,0.61,0.66,0.98,Facebook,Diffusion,Fake
+892,Video,Entertainment,2,No,0.42,0.86,0.62,0.74,YouTube,GAN,Fake
+893,Image,Political Speech,4,No,0.2,0.73,0.08,0.97,YouTube,GAN,Fake
+894,Image,Social Media,3,Yes,0.75,0.15,0.36,0.29,Instagram,None,Real
+895,Image,Interview,3,No,0.83,0.04,0.91,0.08,TikTok,None,Real
+896,Video,News,0,No,0.94,0.09,0.26,0.01,Twitter,None,Real
+897,Image,Interview,3,Yes,0.03,0.99,0.61,0.79,Twitter,Diffusion,Fake
+898,Image,News,2,No,0.94,0.06,0.57,0.22,YouTube,None,Real
+899,Video,Political Speech,2,No,0.86,0.28,0.65,0.11,TikTok,None,Real
+900,Image,Social Media,2,Yes,0.49,0.64,0.62,0.69,Facebook,Diffusion,Fake
+901,Audio,Political Speech,4,No,0.87,0.23,0.08,0.19,TikTok,None,Real
+902,Image,Political Speech,3,Yes,0.14,0.97,0.85,0.93,YouTube,GAN,Fake
+903,Audio,News,1,No,0.6,0.49,0.3,0.71,News Website,FaceSwap,Fake
+904,Image,Social Media,0,Yes,0.06,0.47,0.43,0.72,News Website,GAN,Fake
+905,Image,Social Media,0,No,0.48,0.74,0.42,0.6,Facebook,GAN,Fake
+906,Audio,Interview,2,No,0.39,0.75,0.69,0.84,YouTube,FaceSwap,Fake
+907,Video,Entertainment,2,No,0.91,0.02,0.51,0.17,TikTok,None,Real
+908,Audio,Entertainment,3,Yes,0.42,0.51,0.83,0.65,Facebook,Diffusion,Fake
+909,Video,Entertainment,3,No,0.21,0.92,0.65,0.52,Twitter,FaceSwap,Fake
+910,Video,News,1,Yes,0.86,0.17,0.46,0.22,Facebook,None,Real
+911,Audio,Entertainment,0,Yes,0.59,0.89,0.04,0.71,Facebook,VoiceClone,Fake
+912,Video,Social Media,4,Yes,0.09,0.45,0.26,0.79,Facebook,FaceSwap,Fake
+913,Audio,Social Media,0,Yes,0.86,0.03,1.0,0.13,Twitter,None,Real
+914,Image,Interview,0,Yes,0.77,0.12,0.37,0.08,YouTube,None,Real
+915,Audio,Interview,0,Yes,0.95,0.26,0.34,0.25,YouTube,None,Real
+916,Image,Entertainment,2,Yes,0.6,0.82,0.34,0.48,Instagram,FaceSwap,Fake
+917,Image,News,0,No,0.85,0.13,0.96,0.12,TikTok,None,Real
+918,Image,Political Speech,1,No,0.73,0.24,0.08,0.12,YouTube,None,Real
+919,Video,Entertainment,0,Yes,0.99,0.26,0.13,0.12,Instagram,None,Real
+920,Image,Interview,3,No,0.18,0.81,1.0,0.93,Instagram,FaceSwap,Fake
+921,Image,News,0,Yes,0.8,0.15,0.32,0.16,Instagram,None,Real
+922,Image,Social Media,1,Yes,0.99,0.2,0.27,0.28,YouTube,None,Real
+923,Image,Social Media,0,No,0.78,0.13,0.49,0.12,Facebook,None,Real
+924,Image,Interview,0,No,0.95,0.06,0.77,0.25,Twitter,None,Real
+925,Video,Political Speech,3,Yes,0.03,0.5,0.11,0.87,Instagram,GAN,Fake
+926,Image,Interview,0,Yes,0.33,0.8,0.51,0.78,News Website,Diffusion,Fake
+927,Audio,Interview,4,No,0.02,0.89,0.34,0.78,YouTube,FaceSwap,Fake
+928,Video,Interview,1,No,0.26,0.42,0.01,0.73,News Website,Diffusion,Fake
+929,Image,Social Media,4,No,0.34,0.96,0.0,0.78,YouTube,VoiceClone,Fake
+930,Video,Entertainment,2,Yes,0.9,0.16,0.07,0.13,News Website,None,Real
+931,Video,Interview,2,No,0.92,0.25,0.21,0.27,TikTok,None,Real
+932,Video,Entertainment,0,Yes,0.21,0.84,0.32,0.51,YouTube,GAN,Fake
+933,Audio,Social Media,4,Yes,0.89,0.06,0.89,0.1,News Website,None,Real
+934,Image,Social Media,0,Yes,0.45,0.42,0.86,0.43,Facebook,VoiceClone,Fake
+935,Image,Interview,1,No,0.24,0.84,0.11,0.81,TikTok,GAN,Fake
+936,Video,Social Media,1,Yes,0.23,0.76,0.13,0.99,TikTok,GAN,Fake
+937,Image,Entertainment,0,Yes,0.23,0.67,0.12,0.66,YouTube,FaceSwap,Fake
+938,Audio,Social Media,4,No,0.93,0.21,0.75,0.01,YouTube,None,Real
+939,Video,Entertainment,4,Yes,0.5,0.47,0.32,0.49,News Website,Diffusion,Fake
+940,Image,Entertainment,4,No,0.92,0.01,0.56,0.25,News Website,None,Real
+941,Image,Entertainment,4,Yes,0.36,0.99,0.27,0.96,TikTok,VoiceClone,Fake
+942,Image,News,2,Yes,0.88,0.16,0.31,0.14,News Website,None,Real
+943,Audio,Political Speech,2,Yes,0.52,0.74,0.13,0.48,TikTok,GAN,Fake
+944,Image,Interview,4,Yes,0.97,0.25,0.03,0.08,News Website,None,Real
+945,Video,Social Media,0,Yes,0.24,0.88,0.33,0.4,Twitter,Diffusion,Fake
+946,Video,News,1,Yes,0.04,0.75,0.64,0.49,TikTok,FaceSwap,Fake
+947,Image,News,2,Yes,0.0,0.96,0.93,0.85,TikTok,Diffusion,Fake
+948,Video,Entertainment,4,No,0.67,0.51,0.21,0.63,Twitter,Diffusion,Fake
+949,Audio,Social Media,1,Yes,0.47,0.5,0.44,0.48,Twitter,FaceSwap,Fake
+950,Image,Political Speech,0,Yes,0.46,0.58,0.43,0.49,YouTube,GAN,Fake
+951,Video,Political Speech,4,Yes,0.67,0.8,0.94,0.76,Facebook,GAN,Fake
+952,Audio,Interview,4,Yes,0.86,0.29,0.34,0.24,News Website,None,Real
+953,Audio,News,2,Yes,0.79,0.26,0.8,0.28,TikTok,None,Real
+954,Image,Political Speech,3,Yes,0.84,0.16,0.94,0.01,News Website,None,Real
+955,Image,Social Media,2,Yes,0.98,0.1,0.22,0.01,Twitter,None,Real
+956,Video,Interview,3,Yes,0.14,0.96,0.26,0.49,Facebook,VoiceClone,Fake
+957,Audio,Political Speech,3,No,0.8,0.2,0.51,0.11,TikTok,None,Real
+958,Video,Interview,0,No,0.82,0.07,0.36,0.18,TikTok,None,Real
+959,Video,Interview,1,Yes,0.63,0.96,0.72,0.74,News Website,FaceSwap,Fake
+960,Image,Political Speech,0,No,0.98,0.26,0.2,0.06,Instagram,None,Real
+961,Image,Social Media,4,No,0.96,0.06,0.69,0.05,YouTube,None,Real
+962,Audio,News,4,No,0.17,0.65,0.23,0.84,News Website,FaceSwap,Fake
+963,Image,Political Speech,2,Yes,0.01,0.47,0.14,0.58,Instagram,FaceSwap,Fake
+964,Video,News,4,No,0.1,0.54,0.63,0.52,News Website,VoiceClone,Fake
+965,Image,News,2,Yes,0.3,0.51,0.94,0.99,TikTok,Diffusion,Fake
+966,Video,Political Speech,0,No,0.86,0.16,0.42,0.2,Instagram,None,Real
+967,Image,Social Media,2,No,0.85,0.03,0.32,0.17,News Website,None,Real
+968,Video,Social Media,3,Yes,0.56,0.7,0.71,0.66,YouTube,GAN,Fake
+969,Audio,Entertainment,3,Yes,0.29,0.65,0.99,0.59,YouTube,VoiceClone,Fake
+970,Video,Social Media,2,Yes,0.85,0.12,0.05,0.26,YouTube,None,Real
+971,Audio,Entertainment,3,No,0.9,0.07,0.65,0.04,Twitter,None,Real
+972,Audio,Interview,1,Yes,0.72,0.05,0.63,0.28,YouTube,None,Real
+973,Audio,Interview,2,Yes,0.23,0.84,0.35,0.99,Facebook,FaceSwap,Fake
+974,Image,Interview,0,Yes,0.25,0.69,0.38,0.78,Twitter,VoiceClone,Fake
+975,Image,News,3,Yes,0.92,0.19,0.06,0.28,News Website,None,Real
+976,Audio,Social Media,1,No,0.97,0.25,0.88,0.26,Facebook,None,Real
+977,Audio,Entertainment,4,No,0.63,0.99,0.94,0.48,Facebook,Diffusion,Fake
+978,Video,Social Media,4,Yes,0.78,0.03,0.92,0.01,Facebook,None,Real
+979,Image,Social Media,2,Yes,0.91,0.22,0.22,0.06,Twitter,None,Real
+980,Image,Interview,4,No,0.59,0.59,0.61,0.58,Instagram,FaceSwap,Fake
+981,Audio,Interview,1,No,0.89,0.29,0.74,0.08,Instagram,None,Real
+982,Image,News,2,No,0.65,0.46,0.84,0.74,Twitter,VoiceClone,Fake
+983,Audio,News,1,No,0.77,0.19,0.89,0.2,Instagram,None,Real
+984,Audio,News,4,No,0.94,0.25,0.23,0.12,News Website,None,Real
+985,Image,Interview,4,No,0.89,0.11,0.78,0.07,News Website,None,Real
+986,Video,News,2,No,0.69,0.98,0.74,0.56,Facebook,VoiceClone,Fake
+987,Video,Interview,2,Yes,0.84,0.08,0.71,0.21,Twitter,None,Real
+988,Image,Interview,3,Yes,0.82,0.24,0.63,0.1,Twitter,None,Real
+989,Video,Social Media,0,No,0.66,0.64,0.45,0.49,Instagram,FaceSwap,Fake
+990,Image,Interview,1,No,0.82,0.13,0.73,0.22,Instagram,None,Real
+991,Image,News,3,Yes,0.99,0.28,0.68,0.11,TikTok,None,Real
+992,Video,Entertainment,3,No,0.96,0.12,0.56,0.07,Instagram,None,Real
+993,Video,Interview,3,Yes,0.97,0.1,0.81,0.12,Twitter,None,Real
+994,Audio,Interview,1,No,0.56,0.43,0.74,0.76,Facebook,GAN,Fake
+995,Video,Political Speech,2,No,0.55,0.48,0.73,0.41,Twitter,FaceSwap,Fake
+996,Image,Entertainment,2,Yes,0.86,0.05,0.65,0.09,YouTube,None,Real
+997,Image,Political Speech,2,No,0.74,0.0,0.78,0.28,Instagram,None,Real
+998,Audio,Political Speech,4,Yes,0.55,0.69,0.69,0.48,TikTok,GAN,Fake
+999,Video,Interview,4,No,0.49,0.47,0.11,0.79,TikTok,Diffusion,Fake
+1000,Image,Political Speech,2,No,0.18,0.59,0.11,0.72,TikTok,VoiceClone,Fake
